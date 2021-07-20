@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3  -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/sim_navigation.dir/apps/sim_navigation.cpp.o  -o sim_navigation librom_nav.a -lpthread 

@@ -1,0 +1,790 @@
+successful create file to save location data!
+successful create file to save nav2ctrl data!
+successful create file to save sins data!
+successful create file to save mems sins data!
+successful create file to save gps data!
+successful create file to save dvl data!
+successful create file to save CTD data!
+successful create file to save Depth data!
+successful create file to save Pressure data!
+successful create file to save USBL data!
+successful create file to save udp data!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 20 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 38.151076 s
+timestamp2 = 2.854456 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 40 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 41.026076 s
+timestamp2 = 5.731107 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 60 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 43.882152 s
+timestamp2 = 8.585475 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 80 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 46.985648 s
+timestamp2 = 11.690051 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 100 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 50.546436 s
+timestamp2 = 15.250174 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 120 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 53.471824 s
+timestamp2 = 18.175058 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 140 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 56.331428 s
+timestamp2 = 21.034622 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 160 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 59.255856 s
+timestamp2 = 23.960278 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 180 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 62.641912 s
+timestamp2 = 27.345043 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 200 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 65.904140 s
+timestamp2 = 30.607266 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 220 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 68.778880 s
+timestamp2 = 33.481976 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 240 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 71.637264 s
+timestamp2 = 36.340484 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 260 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 74.740432 s
+timestamp2 = 39.443554 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 280 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 78.301160 s
+timestamp2 = 43.004322 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 300 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 81.226176 s
+timestamp2 = 45.930924 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 320 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 84.085600 s
+timestamp2 = 48.790769 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 340 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 87.009728 s
+timestamp2 = 51.712613 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 360 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 90.395736 s
+timestamp2 = 55.100889 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 380 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 93.657952 s
+timestamp2 = 58.360959 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 400 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 96.532792 s
+timestamp2 = 61.235654 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 420 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 99.388640 s
+timestamp2 = 64.091815 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 440 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 102.491864 s
+timestamp2 = 67.197534 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 460 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 106.052520 s
+timestamp2 = 70.755318 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 480 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 108.977576 s
+timestamp2 = 73.687021 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 500 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 111.837056 s
+timestamp2 = 76.550457 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 520 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 114.761184 s
+timestamp2 = 79.475033 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 540 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 118.147168 s
+timestamp2 = 82.866433 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 560 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 121.409328 s
+timestamp2 = 86.111944 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 580 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 124.284232 s
+timestamp2 = 88.986902 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 600 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 127.140040 s
+timestamp2 = 91.842619 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 620 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 130.243320 s
+timestamp2 = 94.945848 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 640 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 133.806376 s
+timestamp2 = 98.508860 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 660 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 136.731584 s
+timestamp2 = 101.434038 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 680 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 139.590992 s
+timestamp2 = 104.293421 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 700 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 142.515216 s
+timestamp2 = 107.217612 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 720 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 145.901104 s
+timestamp2 = 110.603458 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 740 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 149.163312 s
+timestamp2 = 113.865635 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 760 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 152.038064 s
+timestamp2 = 116.742125 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 780 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 154.893936 s
+timestamp2 = 119.596217 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 800 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 157.997168 s
+timestamp2 = 122.699335 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 820 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 161.557856 s
+timestamp2 = 126.262309 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 840 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 164.482992 s
+timestamp2 = 129.185157 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 860 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 167.342384 s
+timestamp2 = 132.045449 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 880 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 170.266576 s
+timestamp2 = 134.968671 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 900 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 173.652480 s
+timestamp2 = 138.354529 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 920 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 176.914720 s
+timestamp2 = 141.616727 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 940 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 179.789472 s
+timestamp2 = 144.492616 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 960 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+height3 = 0.000000 m
+height4 = 0.000000 m
+temp_dvl = 20.690000 du
+timestamp1 = 182.645392 s
+timestamp2 = 147.347343 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~dvl information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+frame_invaild_num = 980 vel_invaild_num = 0 dvl_invalid_ratio = 0.000000
+vel_btm1 = -32.768000 m/s
+vel_btm2 = -32.768000 m/s
+vel_btm3 = -32.768000 m/s
+vel_ref1 = -32.768000 m/s
+vel_ref2 = -32.768000 m/s
+vel_ref3 = -32.768000 m/s
+height1 = 0.000000 m
+height2 = 0.000000 m
+h

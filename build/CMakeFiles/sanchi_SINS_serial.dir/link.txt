@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3  -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/sanchi_SINS_serial.dir/apps/sanchi_SINS_serial.cpp.o  -o sanchi_SINS_serial librom_nav.a -lpthread 

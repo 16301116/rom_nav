@@ -1,0 +1,15 @@
+ps auxw|head -1;ps auxw|sort -rn -k3|head -3
+sudo supervisorctl help
+sudo supervisorctl status
+sudo supervisorctl stop all
+service supervisor status 
+
+supervisord -c /etc/supervisor/supervisord.conf
+
+sudo supervisorctl
+
+sudo shutdown -r now
+sudo shutdown -h now
+
+df -hl
+sudo kill -9

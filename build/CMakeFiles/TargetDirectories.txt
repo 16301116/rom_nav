@@ -1,0 +1,8 @@
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/rebuild_cache.dir
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/edit_cache.dir
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/navigation.dir
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/rom_nav.dir
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/sim_navigation.dir
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/simple_test.dir
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/sanchi_SINS_serial.dir
+/home/waihekor/45kg/ROM-NAV-Cmake-Nvidia/build/CMakeFiles/sim_control.dir

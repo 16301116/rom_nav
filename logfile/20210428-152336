@@ -1,0 +1,5218 @@
+successful create file to save location data!
+successful create file to save nav2ctrl data!
+successful create file to save sins data!
+successful create file to save mems sins data!
+successful create file to save gps data!
+successful create file to save dvl data!
+successful create file to save CTD data!
+successful create file to save Depth data!
+successful create file to save Pressure data!
+successful create file to save USBL data!
+successful create file to save udp data!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 200 lost_num = 0 check_error_num = 0
+counter = 6418526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317027 deg
+angle2 = 0.049466 deg
+angle3 = -143.255168 deg
+fusion_vel_1 = -2.000000 m/s
+fusion_vel_2 = 0.552000 m/s
+fusion_vel_3 = 0.017000 m/s
+fusion_lon = 116.575408 
+fusion_lat = 39.760352 
+fusion_alt = 0.562000 m
+gyro_data1 = -48.557000 deg/h
+gyro_data2 = 19.932000 deg/h
+gyro_data3 = 3.755000 deg/h
+acce_data1 = -0.012500 m/s/s
+acce_data2 = 0.056150 m/s/s
+acce_data3 = 9.798400 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.562500 
+acce_tmp1 = 60.562500 
+acce_tmp2 = 53.625000 
+acce_tmp3 = 60.750000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6476.392960 s
+timestamp2 = 1.989915 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 20 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-23-40-80
+lat = 39.78560030
+lon = 116.56999930
+alt = 0.739000
+speed = 0.018611 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.040000
+hdop = 0.590000
+vdop = 0.860000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6478.317056 s
+timestamp2 = 3.784736 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 400 lost_num = 0 check_error_num = 0
+counter = 6420526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316910 deg
+angle2 = 0.049533 deg
+angle3 = -143.255168 deg
+fusion_vel_1 = -2.002000 m/s
+fusion_vel_2 = 0.558000 m/s
+fusion_vel_3 = 0.017000 m/s
+fusion_lon = 116.575360 
+fusion_lat = 39.760364 
+fusion_alt = 0.575000 m
+gyro_data1 = -10.314000 deg/h
+gyro_data2 = -69.016000 deg/h
+gyro_data3 = 16.624000 deg/h
+acce_data1 = -0.015320 m/s/s
+acce_data2 = 0.057240 m/s/s
+acce_data3 = 9.808050 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.562500 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.750000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6478.393344 s
+timestamp2 = 3.989940 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 600 lost_num = 0 check_error_num = 0
+counter = 6422526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316727 deg
+angle2 = 0.049489 deg
+angle3 = -143.255024 deg
+fusion_vel_1 = -2.004000 m/s
+fusion_vel_2 = 0.562000 m/s
+fusion_vel_3 = 0.017000 m/s
+fusion_lon = 116.575312 
+fusion_lat = 39.760376 
+fusion_alt = 0.586000 m
+gyro_data1 = 1.674000 deg/h
+gyro_data2 = -8.706000 deg/h
+gyro_data3 = 13.027000 deg/h
+acce_data1 = 0.004530 m/s/s
+acce_data2 = 0.049680 m/s/s
+acce_data3 = 9.784090 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.562500 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.750000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6480.393216 s
+timestamp2 = 5.989965 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 40 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-23-44-80
+lat = 39.78560260
+lon = 116.57000430
+alt = 0.728000
+speed = 0.033333 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.060000
+hdop = 0.610000
+vdop = 0.860000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6482.299904 s
+timestamp2 = 7.769507 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 800 lost_num = 0 check_error_num = 0
+counter = 6424526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316033 deg
+angle2 = 0.049792 deg
+angle3 = -143.254864 deg
+fusion_vel_1 = -2.006000 m/s
+fusion_vel_2 = 0.566000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.575264 
+fusion_lat = 39.760384 
+fusion_alt = 0.597000 m
+gyro_data1 = 8.584000 deg/h
+gyro_data2 = 9.589000 deg/h
+gyro_data3 = 3.030000 deg/h
+acce_data1 = -0.002660 m/s/s
+acce_data2 = 0.051430 m/s/s
+acce_data3 = 9.780720 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.562500 
+acce_tmp1 = 60.562500 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6482.393088 s
+timestamp2 = 7.989995 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 1000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 1000 lost_num = 0 check_error_num = 0
+counter = 6426526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.318296 deg
+angle2 = 0.048427 deg
+angle3 = -143.254960 deg
+fusion_vel_1 = -2.009000 m/s
+fusion_vel_2 = 0.571000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.575224 
+fusion_lat = 39.760392 
+fusion_alt = 0.607000 m
+gyro_data1 = 27.008000 deg/h
+gyro_data2 = 0.474000 deg/h
+gyro_data3 = -2.305000 deg/h
+acce_data1 = -0.018140 m/s/s
+acce_data2 = 0.048390 m/s/s
+acce_data3 = 9.806130 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.562500 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6484.393472 s
+timestamp2 = 9.991558 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 60 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-23-48-80
+lat = 39.78560650
+lon = 116.57001060
+alt = 0.715000
+speed = 0.016944 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.370000
+hdop = 0.750000
+vdop = 1.150000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6486.304256 s
+timestamp2 = 11.775496 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 1200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 1200 lost_num = 0 check_error_num = 0
+counter = 6428526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317011 deg
+angle2 = 0.048727 deg
+angle3 = -143.254880 deg
+fusion_vel_1 = -2.011000 m/s
+fusion_vel_2 = 0.575000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.575176 
+fusion_lat = 39.760404 
+fusion_alt = 0.616000 m
+gyro_data1 = -47.360000 deg/h
+gyro_data2 = -65.436000 deg/h
+gyro_data3 = 19.456000 deg/h
+acce_data1 = -0.011760 m/s/s
+acce_data2 = 0.055710 m/s/s
+acce_data3 = 9.801630 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.562500 
+acce_tmp1 = 60.562500 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6486.393344 s
+timestamp2 = 11.990057 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 1400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 1400 lost_num = 0 check_error_num = 0
+counter = 6430526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316817 deg
+angle2 = 0.049169 deg
+angle3 = -143.254768 deg
+fusion_vel_1 = -2.014000 m/s
+fusion_vel_2 = 0.580000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.575128 
+fusion_lat = 39.760416 
+fusion_alt = 0.625000 m
+gyro_data1 = 18.687000 deg/h
+gyro_data2 = 1.019000 deg/h
+gyro_data3 = 11.058000 deg/h
+acce_data1 = 0.000460 m/s/s
+acce_data2 = 0.052340 m/s/s
+acce_data3 = 9.784040 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.750000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6488.393728 s
+timestamp2 = 13.990077 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 80 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-23-52-80
+lat = 39.78560960
+lon = 116.57001630
+alt = 0.699000
+speed = 0.025833 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.360000
+hdop = 0.750000
+vdop = 1.130000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6490.294784 s
+timestamp2 = 15.763068 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 1600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 1600 lost_num = 0 check_error_num = 0
+counter = 6432526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315170 deg
+angle2 = 0.050195 deg
+angle3 = -143.254752 deg
+fusion_vel_1 = -2.017000 m/s
+fusion_vel_2 = 0.584000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.575080 
+fusion_lat = 39.760424 
+fusion_alt = 0.634000 m
+gyro_data1 = -3.127000 deg/h
+gyro_data2 = 44.090000 deg/h
+gyro_data3 = -2.488000 deg/h
+acce_data1 = -0.008500 m/s/s
+acce_data2 = 0.045750 m/s/s
+acce_data3 = 9.787560 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.562500 
+acce_tmp1 = 60.562500 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6490.393600 s
+timestamp2 = 15.990104 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 1800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 1800 lost_num = 0 check_error_num = 0
+counter = 6434526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315573 deg
+angle2 = 0.049795 deg
+angle3 = -143.254656 deg
+fusion_vel_1 = -2.019000 m/s
+fusion_vel_2 = 0.589000 m/s
+fusion_vel_3 = 0.017000 m/s
+fusion_lon = 116.575032 
+fusion_lat = 39.760436 
+fusion_alt = 0.643000 m
+gyro_data1 = 7.388000 deg/h
+gyro_data2 = -60.929000 deg/h
+gyro_data3 = 19.031000 deg/h
+acce_data1 = -0.019680 m/s/s
+acce_data2 = 0.055050 m/s/s
+acce_data3 = 9.801800 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.562500 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6492.393472 s
+timestamp2 = 17.990133 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 100 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-23-56-80
+lat = 39.78561080
+lon = 116.57001530
+alt = 0.690000
+speed = 0.002500 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.390000
+hdop = 0.770000
+vdop = 1.150000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6494.307328 s
+timestamp2 = 19.775010 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 2000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 2000 lost_num = 0 check_error_num = 0
+counter = 6436526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315284 deg
+angle2 = 0.049689 deg
+angle3 = -143.254592 deg
+fusion_vel_1 = -2.022000 m/s
+fusion_vel_2 = 0.594000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574984 
+fusion_lat = 39.760448 
+fusion_alt = 0.651000 m
+gyro_data1 = 17.727000 deg/h
+gyro_data2 = 2.876000 deg/h
+gyro_data3 = 7.829000 deg/h
+acce_data1 = -0.003540 m/s/s
+acce_data2 = 0.047590 m/s/s
+acce_data3 = 9.795010 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6494.393856 s
+timestamp2 = 19.991553 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 2200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 2200 lost_num = 0 check_error_num = 0
+counter = 6438526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315538 deg
+angle2 = 0.049613 deg
+angle3 = -143.254576 deg
+fusion_vel_1 = -2.025000 m/s
+fusion_vel_2 = 0.598000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574936 
+fusion_lat = 39.760456 
+fusion_alt = 0.659000 m
+gyro_data1 = 22.662000 deg/h
+gyro_data2 = 7.253000 deg/h
+gyro_data3 = 6.957000 deg/h
+acce_data1 = -0.001640 m/s/s
+acce_data2 = 0.053750 m/s/s
+acce_data3 = 9.786990 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6496.393728 s
+timestamp2 = 21.997478 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 120 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-0-80
+lat = 39.78561250
+lon = 116.57000950
+alt = 0.690000
+speed = 0.029444 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.380000
+hdop = 0.760000
+vdop = 1.150000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6498.301952 s
+timestamp2 = 23.769330 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 2400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 2400 lost_num = 0 check_error_num = 0
+counter = 6440526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315802 deg
+angle2 = 0.049527 deg
+angle3 = -143.254528 deg
+fusion_vel_1 = -2.028000 m/s
+fusion_vel_2 = 0.603000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574896 
+fusion_lat = 39.760468 
+fusion_alt = 0.666000 m
+gyro_data1 = -6.954000 deg/h
+gyro_data2 = 23.159000 deg/h
+gyro_data3 = 0.867000 deg/h
+acce_data1 = -0.014190 m/s/s
+acce_data2 = 0.054410 m/s/s
+acce_data3 = 9.803360 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6498.394112 s
+timestamp2 = 23.990230 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 2600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 2600 lost_num = 0 check_error_num = 0
+counter = 6442526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315335 deg
+angle2 = 0.049507 deg
+angle3 = -143.254352 deg
+fusion_vel_1 = -2.030000 m/s
+fusion_vel_2 = 0.607000 m/s
+fusion_vel_3 = 0.017000 m/s
+fusion_lon = 116.574848 
+fusion_lat = 39.760480 
+fusion_alt = 0.674000 m
+gyro_data1 = -56.077000 deg/h
+gyro_data2 = -33.064000 deg/h
+gyro_data3 = 21.125000 deg/h
+acce_data1 = -0.006390 m/s/s
+acce_data2 = 0.054270 m/s/s
+acce_data3 = 9.798630 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6500.393984 s
+timestamp2 = 25.990246 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 140 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-4-80
+lat = 39.78561510
+lon = 116.57000150
+alt = 0.691000
+speed = 0.020556 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.380000
+hdop = 0.760000
+vdop = 1.150000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6502.299648 s
+timestamp2 = 27.766940 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 2800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 2800 lost_num = 0 check_error_num = 0
+counter = 6444526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315333 deg
+angle2 = 0.049536 deg
+angle3 = -143.254288 deg
+fusion_vel_1 = -2.032000 m/s
+fusion_vel_2 = 0.612000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574800 
+fusion_lat = 39.760488 
+fusion_alt = 0.681000 m
+gyro_data1 = 3.323000 deg/h
+gyro_data2 = -23.714000 deg/h
+gyro_data3 = 10.690000 deg/h
+acce_data1 = -0.005530 m/s/s
+acce_data2 = 0.054460 m/s/s
+acce_data3 = 9.789170 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6502.393856 s
+timestamp2 = 27.990274 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 3000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 3000 lost_num = 0 check_error_num = 0
+counter = 6446526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315342 deg
+angle2 = 0.049413 deg
+angle3 = -143.254208 deg
+fusion_vel_1 = -2.035000 m/s
+fusion_vel_2 = 0.616000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574752 
+fusion_lat = 39.760500 
+fusion_alt = 0.687000 m
+gyro_data1 = 16.618000 deg/h
+gyro_data2 = 37.435000 deg/h
+gyro_data3 = -4.737000 deg/h
+acce_data1 = -0.008850 m/s/s
+acce_data2 = 0.042190 m/s/s
+acce_data3 = 9.791810 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6504.394240 s
+timestamp2 = 29.990235 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 160 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-8-80
+lat = 39.78561680
+lon = 116.56999310
+alt = 0.693000
+speed = 0.016944 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.200000
+hdop = 0.670000
+vdop = 1.000000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6506.298880 s
+timestamp2 = 31.766149 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 3200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 3200 lost_num = 0 check_error_num = 0
+counter = 6448526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315108 deg
+angle2 = 0.049490 deg
+angle3 = -143.254208 deg
+fusion_vel_1 = -2.038000 m/s
+fusion_vel_2 = 0.620000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574704 
+fusion_lat = 39.760512 
+fusion_alt = 0.692000 m
+gyro_data1 = -33.166000 deg/h
+gyro_data2 = -48.467000 deg/h
+gyro_data3 = 17.673000 deg/h
+acce_data1 = -0.017990 m/s/s
+acce_data2 = 0.056320 m/s/s
+acce_data3 = 9.798840 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6506.394112 s
+timestamp2 = 31.990343 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 3400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 3400 lost_num = 0 check_error_num = 0
+counter = 6450526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.314663 deg
+angle2 = 0.049661 deg
+angle3 = -143.254144 deg
+fusion_vel_1 = -2.039000 m/s
+fusion_vel_2 = 0.624000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574656 
+fusion_lat = 39.760524 
+fusion_alt = 0.697000 m
+gyro_data1 = -27.053000 deg/h
+gyro_data2 = -20.150000 deg/h
+gyro_data3 = 10.050000 deg/h
+acce_data1 = -0.007650 m/s/s
+acce_data2 = 0.050440 m/s/s
+acce_data3 = 9.795180 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6508.394496 s
+timestamp2 = 33.990366 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 180 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-12-80
+lat = 39.78561630
+lon = 116.56998150
+alt = 0.701000
+speed = 0.001944 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.300000
+hdop = 0.710000
+vdop = 1.090000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6510.296064 s
+timestamp2 = 35.763489 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 3600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 3600 lost_num = 0 check_error_num = 0
+counter = 6452526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.314430 deg
+angle2 = 0.049693 deg
+angle3 = -143.254128 deg
+fusion_vel_1 = -2.042000 m/s
+fusion_vel_2 = 0.629000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574608 
+fusion_lat = 39.760536 
+fusion_alt = 0.702000 m
+gyro_data1 = 1.679000 deg/h
+gyro_data2 = -27.148000 deg/h
+gyro_data3 = 14.468000 deg/h
+acce_data1 = -0.002790 m/s/s
+acce_data2 = 0.049480 m/s/s
+acce_data3 = 9.790490 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.625000 
+gyro_tmp3 = 46.562500 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6510.394368 s
+timestamp2 = 35.990392 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 3800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 3800 lost_num = 0 check_error_num = 0
+counter = 6454526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315177 deg
+angle2 = 0.049370 deg
+angle3 = -143.254048 deg
+fusion_vel_1 = -2.045000 m/s
+fusion_vel_2 = 0.633000 m/s
+fusion_vel_3 = 0.016000 m/s
+fusion_lon = 116.574560 
+fusion_lat = 39.760544 
+fusion_alt = 0.707000 m
+gyro_data1 = 26.532000 deg/h
+gyro_data2 = 47.794000 deg/h
+gyro_data3 = 0.276000 deg/h
+acce_data1 = -0.012800 m/s/s
+acce_data2 = 0.044320 m/s/s
+acce_data3 = 9.793390 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6512.394240 s
+timestamp2 = 37.990426 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 200 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-16-80
+lat = 39.78561630
+lon = 116.56997280
+alt = 0.706000
+speed = 0.052500 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.220000
+hdop = 0.690000
+vdop = 1.000000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6514.293760 s
+timestamp2 = 39.760835 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 4000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 4000 lost_num = 0 check_error_num = 0
+counter = 6456526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315906 deg
+angle2 = 0.048521 deg
+angle3 = -143.254112 deg
+fusion_vel_1 = -2.047000 m/s
+fusion_vel_2 = 0.638000 m/s
+fusion_vel_3 = 0.015000 m/s
+fusion_lon = 116.574512 
+fusion_lat = 39.760560 
+fusion_alt = 0.710000 m
+gyro_data1 = -26.279000 deg/h
+gyro_data2 = -14.862000 deg/h
+gyro_data3 = 2.601000 deg/h
+acce_data1 = -0.014180 m/s/s
+acce_data2 = 0.054110 m/s/s
+acce_data3 = 9.800890 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6514.394624 s
+timestamp2 = 39.990453 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 4200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 4200 lost_num = 0 check_error_num = 0
+counter = 6458526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.314901 deg
+angle2 = 0.048994 deg
+angle3 = -143.253936 deg
+fusion_vel_1 = -2.049000 m/s
+fusion_vel_2 = 0.643000 m/s
+fusion_vel_3 = 0.014000 m/s
+fusion_lon = 116.574464 
+fusion_lat = 39.760568 
+fusion_alt = 0.712000 m
+gyro_data1 = -42.822000 deg/h
+gyro_data2 = -74.393000 deg/h
+gyro_data3 = 26.191000 deg/h
+acce_data1 = -0.011100 m/s/s
+acce_data2 = 0.056850 m/s/s
+acce_data3 = 9.793310 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.687500 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6516.394496 s
+timestamp2 = 41.990484 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 220 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-20-80
+lat = 39.78561650
+lon = 116.56996700
+alt = 0.707000
+speed = 0.044722 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.130000
+hdop = 0.640000
+vdop = 0.930000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6518.305792 s
+timestamp2 = 43.773399 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 4400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 4400 lost_num = 0 check_error_num = 0
+counter = 6460526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.314516 deg
+angle2 = 0.049459 deg
+angle3 = -143.253856 deg
+fusion_vel_1 = -2.052000 m/s
+fusion_vel_2 = 0.647000 m/s
+fusion_vel_3 = 0.014000 m/s
+fusion_lon = 116.574416 
+fusion_lat = 39.760580 
+fusion_alt = 0.712000 m
+gyro_data1 = 47.766000 deg/h
+gyro_data2 = 40.493000 deg/h
+gyro_data3 = 8.088000 deg/h
+acce_data1 = 0.003450 m/s/s
+acce_data2 = 0.044960 m/s/s
+acce_data3 = 9.790950 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6518.394368 s
+timestamp2 = 43.990522 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 4600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 4600 lost_num = 0 check_error_num = 0
+counter = 6462526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.314208 deg
+angle2 = 0.049671 deg
+angle3 = -143.253760 deg
+fusion_vel_1 = -2.054000 m/s
+fusion_vel_2 = 0.652000 m/s
+fusion_vel_3 = 0.013000 m/s
+fusion_lon = 116.574368 
+fusion_lat = 39.760592 
+fusion_alt = 0.711000 m
+gyro_data1 = -21.006000 deg/h
+gyro_data2 = 17.735000 deg/h
+gyro_data3 = 7.307000 deg/h
+acce_data1 = -0.005600 m/s/s
+acce_data2 = 0.053810 m/s/s
+acce_data3 = 9.790860 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.812500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6520.394752 s
+timestamp2 = 45.990545 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 240 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-24-80
+lat = 39.78561730
+lon = 116.56996150
+alt = 0.709000
+speed = 0.012778 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.190000
+hdop = 0.680000
+vdop = 0.970000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6522.301952 s
+timestamp2 = 47.768891 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 4800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 4800 lost_num = 0 check_error_num = 0
+counter = 6464526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.314238 deg
+angle2 = 0.049560 deg
+angle3 = -143.253712 deg
+fusion_vel_1 = -2.056000 m/s
+fusion_vel_2 = 0.656000 m/s
+fusion_vel_3 = 0.013000 m/s
+fusion_lon = 116.574320 
+fusion_lat = 39.760604 
+fusion_alt = 0.710000 m
+gyro_data1 = -43.521000 deg/h
+gyro_data2 = -30.549000 deg/h
+gyro_data3 = 6.621000 deg/h
+acce_data1 = -0.020190 m/s/s
+acce_data2 = 0.054230 m/s/s
+acce_data3 = 9.811140 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6522.394624 s
+timestamp2 = 47.990578 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 5000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 5000 lost_num = 0 check_error_num = 0
+counter = 6466526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.330096 deg
+angle2 = 0.038736 deg
+angle3 = -143.253728 deg
+fusion_vel_1 = -2.058000 m/s
+fusion_vel_2 = 0.661000 m/s
+fusion_vel_3 = 0.012000 m/s
+fusion_lon = 116.574272 
+fusion_lat = 39.760616 
+fusion_alt = 0.708000 m
+gyro_data1 = 77.876000 deg/h
+gyro_data2 = -74.969000 deg/h
+gyro_data3 = 21.282000 deg/h
+acce_data1 = 0.004550 m/s/s
+acce_data2 = 0.052300 m/s/s
+acce_data3 = 9.787620 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6524.395008 s
+timestamp2 = 49.991000 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 260 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-28-80
+lat = 39.78561910
+lon = 116.56995500
+alt = 0.711000
+speed = 0.036111 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.200000
+hdop = 0.660000
+vdop = 0.990000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6526.307328 s
+timestamp2 = 51.774409 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 5200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 5200 lost_num = 0 check_error_num = 0
+counter = 6468526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.322868 deg
+angle2 = 0.043574 deg
+angle3 = -143.253424 deg
+fusion_vel_1 = -2.061000 m/s
+fusion_vel_2 = 0.665000 m/s
+fusion_vel_3 = 0.012000 m/s
+fusion_lon = 116.574224 
+fusion_lat = 39.760628 
+fusion_alt = 0.704000 m
+gyro_data1 = -6.620000 deg/h
+gyro_data2 = 39.678000 deg/h
+gyro_data3 = 6.879000 deg/h
+acce_data1 = -0.003920 m/s/s
+acce_data2 = 0.059520 m/s/s
+acce_data3 = 9.779130 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6526.394880 s
+timestamp2 = 51.990657 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 5400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 5400 lost_num = 0 check_error_num = 0
+counter = 6470526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.321592 deg
+angle2 = 0.044442 deg
+angle3 = -143.253456 deg
+fusion_vel_1 = -2.063000 m/s
+fusion_vel_2 = 0.670000 m/s
+fusion_vel_3 = 0.012000 m/s
+fusion_lon = 116.574176 
+fusion_lat = 39.760640 
+fusion_alt = 0.701000 m
+gyro_data1 = 9.261000 deg/h
+gyro_data2 = -17.100000 deg/h
+gyro_data3 = 0.254000 deg/h
+acce_data1 = -0.020340 m/s/s
+acce_data2 = 0.050240 m/s/s
+acce_data3 = 9.813370 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6528.394752 s
+timestamp2 = 53.990691 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 280 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-32-80
+lat = 39.78562180
+lon = 116.56995060
+alt = 0.708000
+speed = 0.011111 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.130000
+hdop = 0.650000
+vdop = 0.920000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6530.305536 s
+timestamp2 = 55.773866 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 5600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 5600 lost_num = 0 check_error_num = 0
+counter = 6472526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.321328 deg
+angle2 = 0.044170 deg
+angle3 = -143.253264 deg
+fusion_vel_1 = -2.066000 m/s
+fusion_vel_2 = 0.675000 m/s
+fusion_vel_3 = 0.011000 m/s
+fusion_lon = 116.574128 
+fusion_lat = 39.760652 
+fusion_alt = 0.696000 m
+gyro_data1 = -65.552000 deg/h
+gyro_data2 = -35.056000 deg/h
+gyro_data3 = 23.134000 deg/h
+acce_data1 = 0.004780 m/s/s
+acce_data2 = 0.051190 m/s/s
+acce_data3 = 9.787110 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6530.395136 s
+timestamp2 = 55.990716 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 5800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 5800 lost_num = 0 check_error_num = 0
+counter = 6474526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.321834 deg
+angle2 = 0.044307 deg
+angle3 = -143.253120 deg
+fusion_vel_1 = -2.069000 m/s
+fusion_vel_2 = 0.679000 m/s
+fusion_vel_3 = 0.010000 m/s
+fusion_lon = 116.574080 
+fusion_lat = 39.760664 
+fusion_alt = 0.691000 m
+gyro_data1 = 37.592000 deg/h
+gyro_data2 = 25.161000 deg/h
+gyro_data3 = 1.125000 deg/h
+acce_data1 = -0.007250 m/s/s
+acce_data2 = 0.052820 m/s/s
+acce_data3 = 9.789480 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.625000 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6532.395008 s
+timestamp2 = 57.990740 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 300 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-36-80
+lat = 39.78562430
+lon = 116.56994430
+alt = 0.709000
+speed = 0.016389 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.140000
+hdop = 0.660000
+vdop = 0.930000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6534.305280 s
+timestamp2 = 59.773656 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 6000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 6000 lost_num = 0 check_error_num = 0
+counter = 6476526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317082 deg
+angle2 = 0.047387 deg
+angle3 = -143.252992 deg
+fusion_vel_1 = -2.071000 m/s
+fusion_vel_2 = 0.684000 m/s
+fusion_vel_3 = 0.010000 m/s
+fusion_lon = 116.574032 
+fusion_lat = 39.760676 
+fusion_alt = 0.685000 m
+gyro_data1 = -34.754000 deg/h
+gyro_data2 = 21.752000 deg/h
+gyro_data3 = 1.737000 deg/h
+acce_data1 = -0.014470 m/s/s
+acce_data2 = 0.049310 m/s/s
+acce_data3 = 9.795830 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6534.395392 s
+timestamp2 = 59.990774 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 6200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 6200 lost_num = 0 check_error_num = 0
+counter = 6478526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316205 deg
+angle2 = 0.047711 deg
+angle3 = -143.252816 deg
+fusion_vel_1 = -2.074000 m/s
+fusion_vel_2 = 0.688000 m/s
+fusion_vel_3 = 0.010000 m/s
+fusion_lon = 116.573984 
+fusion_lat = 39.760688 
+fusion_alt = 0.678000 m
+gyro_data1 = -31.883000 deg/h
+gyro_data2 = -53.448000 deg/h
+gyro_data3 = 21.879000 deg/h
+acce_data1 = -0.007950 m/s/s
+acce_data2 = 0.055070 m/s/s
+acce_data3 = 9.795860 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6536.395264 s
+timestamp2 = 61.990802 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 320 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-40-80
+lat = 39.78562630
+lon = 116.56993550
+alt = 0.718000
+speed = 0.046667 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.050000
+hdop = 0.610000
+vdop = 0.850000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6538.320896 s
+timestamp2 = 63.787428 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 6400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 6400 lost_num = 0 check_error_num = 0
+counter = 6480526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315922 deg
+angle2 = 0.048078 deg
+angle3 = -143.252768 deg
+fusion_vel_1 = -2.076000 m/s
+fusion_vel_2 = 0.693000 m/s
+fusion_vel_3 = 0.010000 m/s
+fusion_lon = 116.573936 
+fusion_lat = 39.760704 
+fusion_alt = 0.672000 m
+gyro_data1 = 48.140000 deg/h
+gyro_data2 = 15.538000 deg/h
+gyro_data3 = 2.586000 deg/h
+acce_data1 = -0.005630 m/s/s
+acce_data2 = 0.050200 m/s/s
+acce_data3 = 9.786330 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6538.395136 s
+timestamp2 = 63.990835 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 6600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 6600 lost_num = 0 check_error_num = 0
+counter = 6482526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317722 deg
+angle2 = 0.047008 deg
+angle3 = -143.252736 deg
+fusion_vel_1 = -2.078000 m/s
+fusion_vel_2 = 0.698000 m/s
+fusion_vel_3 = 0.009000 m/s
+fusion_lon = 116.573888 
+fusion_lat = 39.760712 
+fusion_alt = 0.665000 m
+gyro_data1 = -20.116000 deg/h
+gyro_data2 = 22.648000 deg/h
+gyro_data3 = 2.655000 deg/h
+acce_data1 = -0.012860 m/s/s
+acce_data2 = 0.050960 m/s/s
+acce_data3 = 9.796020 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6540.395520 s
+timestamp2 = 65.990876 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 340 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-44-80
+lat = 39.78562780
+lon = 116.56993100
+alt = 0.724000
+speed = 0.043889 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.110000
+hdop = 0.670000
+vdop = 0.890000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6542.319616 s
+timestamp2 = 67.786085 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 6800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 6800 lost_num = 0 check_error_num = 0
+counter = 6484526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316894 deg
+angle2 = 0.047358 deg
+angle3 = -143.252528 deg
+fusion_vel_1 = -2.080000 m/s
+fusion_vel_2 = 0.702000 m/s
+fusion_vel_3 = 0.010000 m/s
+fusion_lon = 116.573840 
+fusion_lat = 39.760728 
+fusion_alt = 0.658000 m
+gyro_data1 = -45.540000 deg/h
+gyro_data2 = -69.773000 deg/h
+gyro_data3 = 22.958000 deg/h
+acce_data1 = -0.006210 m/s/s
+acce_data2 = 0.058950 m/s/s
+acce_data3 = 9.794830 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6542.395392 s
+timestamp2 = 67.991677 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 7000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 7000 lost_num = 0 check_error_num = 0
+counter = 6486526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316805 deg
+angle2 = 0.047527 deg
+angle3 = -143.252480 deg
+fusion_vel_1 = -2.082000 m/s
+fusion_vel_2 = 0.706000 m/s
+fusion_vel_3 = 0.010000 m/s
+fusion_lon = 116.573792 
+fusion_lat = 39.760740 
+fusion_alt = 0.652000 m
+gyro_data1 = 43.325000 deg/h
+gyro_data2 = 40.597000 deg/h
+gyro_data3 = 1.968000 deg/h
+acce_data1 = -0.006540 m/s/s
+acce_data2 = 0.041000 m/s/s
+acce_data3 = 9.801390 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6544.395264 s
+timestamp2 = 69.990925 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 360 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-48-80
+lat = 39.78563000
+lon = 116.56992810
+alt = 0.730000
+speed = 0.016944 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.100000
+hdop = 0.660000
+vdop = 0.880000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6546.313728 s
+timestamp2 = 71.780157 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 7200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 7200 lost_num = 0 check_error_num = 0
+counter = 6488526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.320539 deg
+angle2 = 0.044978 deg
+angle3 = -143.252464 deg
+fusion_vel_1 = -2.085000 m/s
+fusion_vel_2 = 0.711000 m/s
+fusion_vel_3 = 0.009000 m/s
+fusion_lon = 116.573744 
+fusion_lat = 39.760752 
+fusion_alt = 0.646000 m
+gyro_data1 = -34.298000 deg/h
+gyro_data2 = 3.571000 deg/h
+gyro_data3 = 7.819000 deg/h
+acce_data1 = -0.011990 m/s/s
+acce_data2 = 0.054300 m/s/s
+acce_data3 = 9.793140 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6546.395648 s
+timestamp2 = 71.990980 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 7400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 7400 lost_num = 0 check_error_num = 0
+counter = 6490526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.320118 deg
+angle2 = 0.044912 deg
+angle3 = -143.252416 deg
+fusion_vel_1 = -2.087000 m/s
+fusion_vel_2 = 0.715000 m/s
+fusion_vel_3 = 0.009000 m/s
+fusion_lon = 116.573688 
+fusion_lat = 39.760764 
+fusion_alt = 0.639000 m
+gyro_data1 = -312.671000 deg/h
+gyro_data2 = -107.468000 deg/h
+gyro_data3 = 21.567000 deg/h
+acce_data1 = -0.010240 m/s/s
+acce_data2 = 0.088410 m/s/s
+acce_data3 = 9.790870 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6548.395520 s
+timestamp2 = 73.991018 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 380 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-52-80
+lat = 39.78563280
+lon = 116.56992560
+alt = 0.736000
+speed = 0.013333 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.200000
+hdop = 0.720000
+vdop = 0.960000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6550.315008 s
+timestamp2 = 75.781559 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 7600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 7600 lost_num = 0 check_error_num = 0
+counter = 6492526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.319837 deg
+angle2 = 0.045189 deg
+angle3 = -143.252448 deg
+fusion_vel_1 = -2.089000 m/s
+fusion_vel_2 = 0.720000 m/s
+fusion_vel_3 = 0.009000 m/s
+fusion_lon = 116.573640 
+fusion_lat = 39.760776 
+fusion_alt = 0.632000 m
+gyro_data1 = 44.011000 deg/h
+gyro_data2 = 34.347000 deg/h
+gyro_data3 = 3.747000 deg/h
+acce_data1 = -0.001870 m/s/s
+acce_data2 = 0.040310 m/s/s
+acce_data3 = 9.793890 m/s/s
+gyro_tmp1 = 46.562500 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6550.395904 s
+timestamp2 = 75.991045 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 7800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 7800 lost_num = 0 check_error_num = 0
+counter = 6494526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.319997 deg
+angle2 = 0.045076 deg
+angle3 = -143.252336 deg
+fusion_vel_1 = -2.092000 m/s
+fusion_vel_2 = 0.725000 m/s
+fusion_vel_3 = 0.009000 m/s
+fusion_lon = 116.573592 
+fusion_lat = 39.760792 
+fusion_alt = 0.625000 m
+gyro_data1 = -60.697000 deg/h
+gyro_data2 = -4.237000 deg/h
+gyro_data3 = 10.040000 deg/h
+acce_data1 = -0.007450 m/s/s
+acce_data2 = 0.055200 m/s/s
+acce_data3 = 9.793350 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6552.395776 s
+timestamp2 = 77.992189 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 400 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-24-56-80
+lat = 39.78563610
+lon = 116.56992230
+alt = 0.741000
+speed = 0.012500 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.240000
+hdop = 0.730000
+vdop = 1.000000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6554.320896 s
+timestamp2 = 79.787446 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 8000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 8000 lost_num = 0 check_error_num = 0
+counter = 6496526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.336354 deg
+angle2 = 0.034233 deg
+angle3 = -143.252256 deg
+fusion_vel_1 = -2.094000 m/s
+fusion_vel_2 = 0.730000 m/s
+fusion_vel_3 = 0.008000 m/s
+fusion_lon = 116.573544 
+fusion_lat = 39.760804 
+fusion_alt = 0.618000 m
+gyro_data1 = 94.698000 deg/h
+gyro_data2 = -79.277000 deg/h
+gyro_data3 = 13.081000 deg/h
+acce_data1 = -0.013920 m/s/s
+acce_data2 = 0.057580 m/s/s
+acce_data3 = 9.807000 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6554.395648 s
+timestamp2 = 79.991111 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 8200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 8200 lost_num = 0 check_error_num = 0
+counter = 6498526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.332304 deg
+angle2 = 0.037056 deg
+angle3 = -143.252192 deg
+fusion_vel_1 = -2.097000 m/s
+fusion_vel_2 = 0.735000 m/s
+fusion_vel_3 = 0.008000 m/s
+fusion_lon = 116.573496 
+fusion_lat = 39.760816 
+fusion_alt = 0.611000 m
+gyro_data1 = 10.148000 deg/h
+gyro_data2 = 25.945000 deg/h
+gyro_data3 = 10.148000 deg/h
+acce_data1 = 0.005480 m/s/s
+acce_data2 = 0.052810 m/s/s
+acce_data3 = 9.791260 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6556.396032 s
+timestamp2 = 81.995536 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 420 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-0-80
+lat = 39.78564510
+lon = 116.56991960
+alt = 0.745000
+speed = 0.020278 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.190000
+hdop = 0.710000
+vdop = 0.960000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6558.317568 s
+timestamp2 = 83.784260 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 8400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 8400 lost_num = 0 check_error_num = 0
+counter = 6500526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331137 deg
+angle2 = 0.037627 deg
+angle3 = -143.252080 deg
+fusion_vel_1 = -2.099000 m/s
+fusion_vel_2 = 0.740000 m/s
+fusion_vel_3 = 0.008000 m/s
+fusion_lon = 116.573448 
+fusion_lat = 39.760832 
+fusion_alt = 0.604000 m
+gyro_data1 = -117.974000 deg/h
+gyro_data2 = -12.896000 deg/h
+gyro_data3 = 14.153000 deg/h
+acce_data1 = -0.009860 m/s/s
+acce_data2 = 0.059440 m/s/s
+acce_data3 = 9.792470 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6558.395904 s
+timestamp2 = 83.991549 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 8600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 8600 lost_num = 0 check_error_num = 0
+counter = 6502526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.323449 deg
+angle2 = 0.043100 deg
+angle3 = -143.251792 deg
+fusion_vel_1 = -2.101000 m/s
+fusion_vel_2 = 0.745000 m/s
+fusion_vel_3 = 0.008000 m/s
+fusion_lon = 116.573400 
+fusion_lat = 39.760844 
+fusion_alt = 0.597000 m
+gyro_data1 = 71.955000 deg/h
+gyro_data2 = -13.641000 deg/h
+gyro_data3 = 8.317000 deg/h
+acce_data1 = -0.011570 m/s/s
+acce_data2 = 0.057010 m/s/s
+acce_data3 = 9.800170 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6560.396288 s
+timestamp2 = 85.991372 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 440 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-4-80
+lat = 39.78565310
+lon = 116.56991550
+alt = 0.750000
+speed = 0.014167 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.120000
+hdop = 0.650000
+vdop = 0.910000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6562.311680 s
+timestamp2 = 87.777973 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 8800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 8800 lost_num = 0 check_error_num = 0
+counter = 6504526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.319803 deg
+angle2 = 0.045435 deg
+angle3 = -143.251552 deg
+fusion_vel_1 = -2.104000 m/s
+fusion_vel_2 = 0.750000 m/s
+fusion_vel_3 = 0.008000 m/s
+fusion_lon = 116.573344 
+fusion_lat = 39.760856 
+fusion_alt = 0.591000 m
+gyro_data1 = -13.966000 deg/h
+gyro_data2 = -21.404000 deg/h
+gyro_data3 = 16.149000 deg/h
+acce_data1 = -0.001860 m/s/s
+acce_data2 = 0.050880 m/s/s
+acce_data3 = 9.788140 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6562.396160 s
+timestamp2 = 87.991248 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 9000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 9000 lost_num = 0 check_error_num = 0
+counter = 6506526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.319519 deg
+angle2 = 0.045896 deg
+angle3 = -143.251568 deg
+fusion_vel_1 = -2.106000 m/s
+fusion_vel_2 = 0.754000 m/s
+fusion_vel_3 = 0.008000 m/s
+fusion_lon = 116.573296 
+fusion_lat = 39.760872 
+fusion_alt = 0.585000 m
+gyro_data1 = 0.449000 deg/h
+gyro_data2 = -9.270000 deg/h
+gyro_data3 = 6.779000 deg/h
+acce_data1 = -0.011730 m/s/s
+acce_data2 = 0.056720 m/s/s
+acce_data3 = 9.794300 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6564.396032 s
+timestamp2 = 89.991274 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 460 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-8-80
+lat = 39.78565810
+lon = 116.56991510
+alt = 0.752000
+speed = 0.045000 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.160000
+hdop = 0.650000
+vdop = 0.960000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6566.323200 s
+timestamp2 = 91.789237 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 9200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 9200 lost_num = 0 check_error_num = 0
+counter = 6508526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.321942 deg
+angle2 = 0.044158 deg
+angle3 = -143.251648 deg
+fusion_vel_1 = -2.108000 m/s
+fusion_vel_2 = 0.759000 m/s
+fusion_vel_3 = 0.008000 m/s
+fusion_lon = 116.573248 
+fusion_lat = 39.760884 
+fusion_alt = 0.579000 m
+gyro_data1 = -21.923000 deg/h
+gyro_data2 = 5.268000 deg/h
+gyro_data3 = 7.467000 deg/h
+acce_data1 = -0.012040 m/s/s
+acce_data2 = 0.051810 m/s/s
+acce_data3 = 9.800880 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.875000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6566.396416 s
+timestamp2 = 91.991308 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 9400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 9400 lost_num = 0 check_error_num = 0
+counter = 6510526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.323208 deg
+angle2 = 0.043111 deg
+angle3 = -143.251616 deg
+fusion_vel_1 = -2.110000 m/s
+fusion_vel_2 = 0.764000 m/s
+fusion_vel_3 = 0.007000 m/s
+fusion_lon = 116.573200 
+fusion_lat = 39.760900 
+fusion_alt = 0.572000 m
+gyro_data1 = -7.227000 deg/h
+gyro_data2 = -42.851000 deg/h
+gyro_data3 = 15.490000 deg/h
+acce_data1 = -0.001070 m/s/s
+acce_data2 = 0.051710 m/s/s
+acce_data3 = 9.794320 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.750000 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6568.396288 s
+timestamp2 = 93.991342 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 480 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-12-80
+lat = 39.78566310
+lon = 116.56991730
+alt = 0.749000
+speed = 0.020833 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.100000
+hdop = 0.620000
+vdop = 0.910000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6570.322432 s
+timestamp2 = 95.788270 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 9600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 9600 lost_num = 0 check_error_num = 0
+counter = 6512526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.319268 deg
+angle2 = 0.045814 deg
+angle3 = -143.251600 deg
+fusion_vel_1 = -2.111000 m/s
+fusion_vel_2 = 0.769000 m/s
+fusion_vel_3 = 0.007000 m/s
+fusion_lon = 116.573152 
+fusion_lat = 39.760912 
+fusion_alt = 0.563000 m
+gyro_data1 = 42.521000 deg/h
+gyro_data2 = -0.609000 deg/h
+gyro_data3 = 2.812000 deg/h
+acce_data1 = -0.013730 m/s/s
+acce_data2 = 0.054990 m/s/s
+acce_data3 = 9.798980 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.687500 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6570.396672 s
+timestamp2 = 95.991358 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 9800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 9800 lost_num = 0 check_error_num = 0
+counter = 6514526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.318608 deg
+angle2 = 0.045998 deg
+angle3 = -143.251536 deg
+fusion_vel_1 = -2.113000 m/s
+fusion_vel_2 = 0.774000 m/s
+fusion_vel_3 = 0.006000 m/s
+fusion_lon = 116.573104 
+fusion_lat = 39.760928 
+fusion_alt = 0.555000 m
+gyro_data1 = -19.987000 deg/h
+gyro_data2 = -2.431000 deg/h
+gyro_data3 = 6.416000 deg/h
+acce_data1 = -0.011270 m/s/s
+acce_data2 = 0.045970 m/s/s
+acce_data3 = 9.800080 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6572.396544 s
+timestamp2 = 97.991402 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 500 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-16-80
+lat = 39.78566610
+lon = 116.56991910
+alt = 0.747000
+speed = 0.011667 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.100000
+hdop = 0.620000
+vdop = 0.910000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6574.327296 s
+timestamp2 = 99.794296 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 10000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 10000 lost_num = 0 check_error_num = 0
+counter = 6516526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317736 deg
+angle2 = 0.046323 deg
+angle3 = -143.251376 deg
+fusion_vel_1 = -2.114000 m/s
+fusion_vel_2 = 0.778000 m/s
+fusion_vel_3 = 0.006000 m/s
+fusion_lon = 116.573056 
+fusion_lat = 39.760940 
+fusion_alt = 0.546000 m
+gyro_data1 = -88.956000 deg/h
+gyro_data2 = -47.490000 deg/h
+gyro_data3 = 22.087000 deg/h
+acce_data1 = -0.002800 m/s/s
+acce_data2 = 0.057330 m/s/s
+acce_data3 = 9.791980 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6574.396416 s
+timestamp2 = 99.991439 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 10200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 10200 lost_num = 0 check_error_num = 0
+counter = 6518526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.318207 deg
+angle2 = 0.046343 deg
+angle3 = -143.251376 deg
+fusion_vel_1 = -2.116000 m/s
+fusion_vel_2 = 0.783000 m/s
+fusion_vel_3 = 0.005000 m/s
+fusion_lon = 116.573008 
+fusion_lat = 39.760952 
+fusion_alt = 0.536000 m
+gyro_data1 = 43.506000 deg/h
+gyro_data2 = 31.658000 deg/h
+gyro_data3 = -1.285000 deg/h
+acce_data1 = -0.008980 m/s/s
+acce_data2 = 0.047300 m/s/s
+acce_data3 = 9.786360 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6576.396800 s
+timestamp2 = 101.991473 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 520 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-20-80
+lat = 39.78566660
+lon = 116.56992350
+alt = 0.740000
+speed = 0.009722 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.120000
+hdop = 0.620000
+vdop = 0.930000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6578.309120 s
+timestamp2 = 103.775052 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 10400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 10400 lost_num = 0 check_error_num = 0
+counter = 6520526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317707 deg
+angle2 = 0.046596 deg
+angle3 = -143.251328 deg
+fusion_vel_1 = -2.118000 m/s
+fusion_vel_2 = 0.787000 m/s
+fusion_vel_3 = 0.005000 m/s
+fusion_lon = 116.572952 
+fusion_lat = 39.760968 
+fusion_alt = 0.526000 m
+gyro_data1 = -51.242000 deg/h
+gyro_data2 = 2.147000 deg/h
+gyro_data3 = 8.135000 deg/h
+acce_data1 = -0.013080 m/s/s
+acce_data2 = 0.055160 m/s/s
+acce_data3 = 9.801400 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6578.396672 s
+timestamp2 = 103.991972 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 10600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 10600 lost_num = 0 check_error_num = 0
+counter = 6522526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317747 deg
+angle2 = 0.046367 deg
+angle3 = -143.251216 deg
+fusion_vel_1 = -2.120000 m/s
+fusion_vel_2 = 0.792000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.572904 
+fusion_lat = 39.760984 
+fusion_alt = 0.515000 m
+gyro_data1 = -39.885000 deg/h
+gyro_data2 = -80.655000 deg/h
+gyro_data3 = 23.192000 deg/h
+acce_data1 = -0.009640 m/s/s
+acce_data2 = 0.061580 m/s/s
+acce_data3 = 9.793500 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6580.396544 s
+timestamp2 = 105.991523 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 540 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-24-80
+lat = 39.78566450
+lon = 116.56992680
+alt = 0.731000
+speed = 0.030000 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.200000
+hdop = 0.650000
+vdop = 1.020000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6582.325248 s
+timestamp2 = 107.790925 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 10800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 10800 lost_num = 0 check_error_num = 0
+counter = 6524526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317554 deg
+angle2 = 0.046628 deg
+angle3 = -143.251168 deg
+fusion_vel_1 = -2.122000 m/s
+fusion_vel_2 = 0.796000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.572856 
+fusion_lat = 39.760996 
+fusion_alt = 0.503000 m
+gyro_data1 = 47.637000 deg/h
+gyro_data2 = 42.677000 deg/h
+gyro_data3 = 1.066000 deg/h
+acce_data1 = 0.000700 m/s/s
+acce_data2 = 0.045600 m/s/s
+acce_data3 = 9.788330 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6582.396928 s
+timestamp2 = 107.991557 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 11000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 11000 lost_num = 0 check_error_num = 0
+counter = 6526526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317897 deg
+angle2 = 0.046384 deg
+angle3 = -143.251104 deg
+fusion_vel_1 = -2.123000 m/s
+fusion_vel_2 = 0.801000 m/s
+fusion_vel_3 = 0.002000 m/s
+fusion_lon = 116.572808 
+fusion_lat = 39.761012 
+fusion_alt = 0.489000 m
+gyro_data1 = -75.131000 deg/h
+gyro_data2 = -0.526000 deg/h
+gyro_data3 = 7.441000 deg/h
+acce_data1 = -0.011290 m/s/s
+acce_data2 = 0.054200 m/s/s
+acce_data3 = 9.790140 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6584.396800 s
+timestamp2 = 109.991590 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 560 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-28-80
+lat = 39.78566200
+lon = 116.56993000
+alt = 0.721000
+speed = 0.012778 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.200000
+hdop = 0.650000
+vdop = 1.020000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6586.318848 s
+timestamp2 = 111.784549 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 11200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 11200 lost_num = 0 check_error_num = 0
+counter = 6528526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317579 deg
+angle2 = 0.046621 deg
+angle3 = -143.251008 deg
+fusion_vel_1 = -2.124000 m/s
+fusion_vel_2 = 0.805000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.572752 
+fusion_lat = 39.761024 
+fusion_alt = 0.475000 m
+gyro_data1 = 41.448000 deg/h
+gyro_data2 = -55.258000 deg/h
+gyro_data3 = 13.711000 deg/h
+acce_data1 = -0.022690 m/s/s
+acce_data2 = 0.053730 m/s/s
+acce_data3 = 9.811670 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6586.397184 s
+timestamp2 = 111.991620 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 11400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 11400 lost_num = 0 check_error_num = 0
+counter = 6530526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317824 deg
+angle2 = 0.046168 deg
+angle3 = -143.250928 deg
+fusion_vel_1 = -2.126000 m/s
+fusion_vel_2 = 0.809000 m/s
+fusion_vel_3 = 0.002000 m/s
+fusion_lon = 116.572704 
+fusion_lat = 39.761040 
+fusion_alt = 0.462000 m
+gyro_data1 = 47.087000 deg/h
+gyro_data2 = -12.600000 deg/h
+gyro_data3 = 14.162000 deg/h
+acce_data1 = 0.001380 m/s/s
+acce_data2 = 0.048730 m/s/s
+acce_data3 = 9.784620 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6588.397056 s
+timestamp2 = 113.991664 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 580 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-32-80
+lat = 39.78565930
+lon = 116.56993080
+alt = 0.715000
+speed = 0.083056 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.200000
+hdop = 0.680000
+vdop = 0.990000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6590.317056 s
+timestamp2 = 115.784574 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 11600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 11600 lost_num = 0 check_error_num = 0
+counter = 6532526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317337 deg
+angle2 = 0.046593 deg
+angle3 = -143.250976 deg
+fusion_vel_1 = -2.127000 m/s
+fusion_vel_2 = 0.813000 m/s
+fusion_vel_3 = 0.001000 m/s
+fusion_lon = 116.572656 
+fusion_lat = 39.761056 
+fusion_alt = 0.448000 m
+gyro_data1 = 14.137000 deg/h
+gyro_data2 = 27.328000 deg/h
+gyro_data3 = 7.467000 deg/h
+acce_data1 = -0.003260 m/s/s
+acce_data2 = 0.052600 m/s/s
+acce_data3 = 9.784120 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6590.396928 s
+timestamp2 = 115.991695 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 11800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 11800 lost_num = 0 check_error_num = 0
+counter = 6534526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.317343 deg
+angle2 = 0.046682 deg
+angle3 = -143.251056 deg
+fusion_vel_1 = -2.129000 m/s
+fusion_vel_2 = 0.817000 m/s
+fusion_vel_3 = 0.001000 m/s
+fusion_lon = 116.572608 
+fusion_lat = 39.761072 
+fusion_alt = 0.434000 m
+gyro_data1 = -6.162000 deg/h
+gyro_data2 = 12.735000 deg/h
+gyro_data3 = 1.321000 deg/h
+acce_data1 = -0.018140 m/s/s
+acce_data2 = 0.050040 m/s/s
+acce_data3 = 9.813010 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6592.397312 s
+timestamp2 = 117.995527 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 600 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-36-80
+lat = 39.78565700
+lon = 116.56993080
+alt = 0.713000
+speed = 0.020278 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.300000
+hdop = 0.730000
+vdop = 1.070000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6594.314240 s
+timestamp2 = 119.781373 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 12000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 12000 lost_num = 0 check_error_num = 0
+counter = 6536526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316578 deg
+angle2 = 0.046711 deg
+angle3 = -143.250896 deg
+fusion_vel_1 = -2.130000 m/s
+fusion_vel_2 = 0.821000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572560 
+fusion_lat = 39.761084 
+fusion_alt = 0.418000 m
+gyro_data1 = -52.027000 deg/h
+gyro_data2 = -45.604000 deg/h
+gyro_data3 = 21.766000 deg/h
+acce_data1 = -0.001230 m/s/s
+acce_data2 = 0.053600 m/s/s
+acce_data3 = 9.796540 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6594.397184 s
+timestamp2 = 119.991771 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 12200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 12200 lost_num = 0 check_error_num = 0
+counter = 6538526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316762 deg
+angle2 = 0.046953 deg
+angle3 = -143.250832 deg
+fusion_vel_1 = -2.131000 m/s
+fusion_vel_2 = 0.825000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572512 
+fusion_lat = 39.761100 
+fusion_alt = 0.401000 m
+gyro_data1 = 65.888000 deg/h
+gyro_data2 = 15.601000 deg/h
+gyro_data3 = 4.162000 deg/h
+acce_data1 = -0.003120 m/s/s
+acce_data2 = 0.051700 m/s/s
+acce_data3 = 9.793690 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6596.397568 s
+timestamp2 = 121.992659 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 620 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-40-80
+lat = 39.78565360
+lon = 116.56992700
+alt = 0.713000
+speed = 0.027500 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.170000
+hdop = 0.670000
+vdop = 0.960000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6598.301696 s
+timestamp2 = 123.767025 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 12400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 12400 lost_num = 0 check_error_num = 0
+counter = 6540526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.319130 deg
+angle2 = 0.045386 deg
+angle3 = -143.250800 deg
+fusion_vel_1 = -2.133000 m/s
+fusion_vel_2 = 0.829000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572456 
+fusion_lat = 39.761112 
+fusion_alt = 0.385000 m
+gyro_data1 = -55.360000 deg/h
+gyro_data2 = 32.794000 deg/h
+gyro_data3 = 6.428000 deg/h
+acce_data1 = -0.008880 m/s/s
+acce_data2 = 0.052580 m/s/s
+acce_data3 = 9.791780 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6598.397440 s
+timestamp2 = 123.991820 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 12600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 12600 lost_num = 0 check_error_num = 0
+counter = 6542526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.319057 deg
+angle2 = 0.045197 deg
+angle3 = -143.250752 deg
+fusion_vel_1 = -2.134000 m/s
+fusion_vel_2 = 0.834000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572408 
+fusion_lat = 39.761128 
+fusion_alt = 0.369000 m
+gyro_data1 = 4.140000 deg/h
+gyro_data2 = -81.860000 deg/h
+gyro_data3 = 15.983000 deg/h
+acce_data1 = -0.013240 m/s/s
+acce_data2 = 0.056100 m/s/s
+acce_data3 = 9.805800 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6600.397312 s
+timestamp2 = 125.991855 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 640 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-44-80
+lat = 39.78565000
+lon = 116.56992810
+alt = 0.710000
+speed = 0.010278 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.300000
+hdop = 0.730000
+vdop = 1.070000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6602.319360 s
+timestamp2 = 127.784887 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 12800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 12800 lost_num = 0 check_error_num = 0
+counter = 6544526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316701 deg
+angle2 = 0.046779 deg
+angle3 = -143.250704 deg
+fusion_vel_1 = -2.135000 m/s
+fusion_vel_2 = 0.838000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572360 
+fusion_lat = 39.761144 
+fusion_alt = 0.354000 m
+gyro_data1 = 6.257000 deg/h
+gyro_data2 = 9.173000 deg/h
+gyro_data3 = 8.499000 deg/h
+acce_data1 = -0.007820 m/s/s
+acce_data2 = 0.047260 m/s/s
+acce_data3 = 9.794610 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6602.397696 s
+timestamp2 = 127.991903 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 13000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 13000 lost_num = 0 check_error_num = 0
+counter = 6546526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316446 deg
+angle2 = 0.046912 deg
+angle3 = -143.250608 deg
+fusion_vel_1 = -2.137000 m/s
+fusion_vel_2 = 0.843000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572304 
+fusion_lat = 39.761160 
+fusion_alt = 0.339000 m
+gyro_data1 = -8.735000 deg/h
+gyro_data2 = 25.770000 deg/h
+gyro_data3 = 3.863000 deg/h
+acce_data1 = -0.007150 m/s/s
+acce_data2 = 0.046210 m/s/s
+acce_data3 = 9.791710 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6604.397568 s
+timestamp2 = 129.991922 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 660 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-48-80
+lat = 39.78564800
+lon = 116.56993360
+alt = 0.701000
+speed = 0.016667 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.400000
+hdop = 0.820000
+vdop = 1.130000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6606.318592 s
+timestamp2 = 131.784897 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 13200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 13200 lost_num = 0 check_error_num = 0
+counter = 6548526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316188 deg
+angle2 = 0.047318 deg
+angle3 = -143.250624 deg
+fusion_vel_1 = -2.139000 m/s
+fusion_vel_2 = 0.848000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572256 
+fusion_lat = 39.761176 
+fusion_alt = 0.325000 m
+gyro_data1 = -14.755000 deg/h
+gyro_data2 = -44.681000 deg/h
+gyro_data3 = 12.940000 deg/h
+acce_data1 = -0.019410 m/s/s
+acce_data2 = 0.059070 m/s/s
+acce_data3 = 9.806940 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 60.937500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6606.397952 s
+timestamp2 = 131.991962 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 13400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 13400 lost_num = 0 check_error_num = 0
+counter = 6550526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316025 deg
+angle2 = 0.047067 deg
+angle3 = -143.250416 deg
+fusion_vel_1 = -2.140000 m/s
+fusion_vel_2 = 0.852000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572208 
+fusion_lat = 39.761192 
+fusion_alt = 0.312000 m
+gyro_data1 = 7.728000 deg/h
+gyro_data2 = -11.964000 deg/h
+gyro_data3 = 12.434000 deg/h
+acce_data1 = 0.004180 m/s/s
+acce_data2 = 0.046010 m/s/s
+acce_data3 = 9.794280 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6608.397824 s
+timestamp2 = 133.991994 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 680 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-52-80
+lat = 39.78564530
+lon = 116.56993680
+alt = 0.696000
+speed = 0.015000 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.250000
+hdop = 0.720000
+vdop = 1.020000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6610.319872 s
+timestamp2 = 135.785355 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 13600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 13600 lost_num = 0 check_error_num = 0
+counter = 6552526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316000 deg
+angle2 = 0.047100 deg
+angle3 = -143.250432 deg
+fusion_vel_1 = -2.142000 m/s
+fusion_vel_2 = 0.857000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572160 
+fusion_lat = 39.761208 
+fusion_alt = 0.300000 m
+gyro_data1 = 10.937000 deg/h
+gyro_data2 = -9.706000 deg/h
+gyro_data3 = 12.601000 deg/h
+acce_data1 = -0.007840 m/s/s
+acce_data2 = 0.050870 m/s/s
+acce_data3 = 9.788250 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6610.397696 s
+timestamp2 = 135.992026 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 13800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 13800 lost_num = 0 check_error_num = 0
+counter = 6554526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316078 deg
+angle2 = 0.047167 deg
+angle3 = -143.250384 deg
+fusion_vel_1 = -2.143000 m/s
+fusion_vel_2 = 0.862000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572112 
+fusion_lat = 39.761220 
+fusion_alt = 0.289000 m
+gyro_data1 = -27.382000 deg/h
+gyro_data2 = 10.591000 deg/h
+gyro_data3 = 0.679000 deg/h
+acce_data1 = -0.012920 m/s/s
+acce_data2 = 0.050090 m/s/s
+acce_data3 = 9.800360 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.812500 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6612.398080 s
+timestamp2 = 137.992057 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 700 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-25-56-80
+lat = 39.78564260
+lon = 116.56993850
+alt = 0.693000
+speed = 0.020000 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.370000
+hdop = 0.810000
+vdop = 1.110000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6614.319616 s
+timestamp2 = 139.784974 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 14000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 14000 lost_num = 0 check_error_num = 0
+counter = 6556526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315815 deg
+angle2 = 0.046974 deg
+angle3 = -143.250272 deg
+fusion_vel_1 = -2.145000 m/s
+fusion_vel_2 = 0.866000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572056 
+fusion_lat = 39.761236 
+fusion_alt = 0.279000 m
+gyro_data1 = -32.140000 deg/h
+gyro_data2 = -53.325000 deg/h
+gyro_data3 = 16.527000 deg/h
+acce_data1 = -0.011080 m/s/s
+acce_data2 = 0.056280 m/s/s
+acce_data3 = 9.799940 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6614.397952 s
+timestamp2 = 139.992115 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 14200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 14200 lost_num = 0 check_error_num = 0
+counter = 6558526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315820 deg
+angle2 = 0.047055 deg
+angle3 = -143.250208 deg
+fusion_vel_1 = -2.146000 m/s
+fusion_vel_2 = 0.870000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.572008 
+fusion_lat = 39.761252 
+fusion_alt = 0.270000 m
+gyro_data1 = 10.477000 deg/h
+gyro_data2 = -20.597000 deg/h
+gyro_data3 = 12.424000 deg/h
+acce_data1 = -0.003810 m/s/s
+acce_data2 = 0.056310 m/s/s
+acce_data3 = 9.792050 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6616.397824 s
+timestamp2 = 141.992128 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 720 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-0-80
+lat = 39.78564010
+lon = 116.56994110
+alt = 0.692000
+speed = 0.006389 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.160000
+hdop = 0.670000
+vdop = 0.940000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6618.328064 s
+timestamp2 = 143.795036 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 14400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 14400 lost_num = 0 check_error_num = 0
+counter = 6560526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315918 deg
+angle2 = 0.047064 deg
+angle3 = -143.250160 deg
+fusion_vel_1 = -2.148000 m/s
+fusion_vel_2 = 0.874000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571960 
+fusion_lat = 39.761268 
+fusion_alt = 0.259000 m
+gyro_data1 = -10.197000 deg/h
+gyro_data2 = 34.087000 deg/h
+gyro_data3 = -1.017000 deg/h
+acce_data1 = -0.004530 m/s/s
+acce_data2 = 0.047460 m/s/s
+acce_data3 = 9.796230 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6618.398208 s
+timestamp2 = 143.992168 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 14600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 14600 lost_num = 0 check_error_num = 0
+counter = 6562526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315677 deg
+angle2 = 0.046967 deg
+angle3 = -143.250064 deg
+fusion_vel_1 = -2.149000 m/s
+fusion_vel_2 = 0.879000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571904 
+fusion_lat = 39.761284 
+fusion_alt = 0.248000 m
+gyro_data1 = -46.916000 deg/h
+gyro_data2 = -71.999000 deg/h
+gyro_data3 = 15.864000 deg/h
+acce_data1 = -0.012970 m/s/s
+acce_data2 = 0.057640 m/s/s
+acce_data3 = 9.801450 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6620.398080 s
+timestamp2 = 145.992201 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 740 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-4-80
+lat = 39.78563750
+lon = 116.56994300
+alt = 0.690000
+speed = 0.019722 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.250000
+hdop = 0.720000
+vdop = 1.020000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6622.311936 s
+timestamp2 = 147.777082 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 14800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 14800 lost_num = 0 check_error_num = 0
+counter = 6564526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315818 deg
+angle2 = 0.046757 deg
+angle3 = -143.250176 deg
+fusion_vel_1 = -2.150000 m/s
+fusion_vel_2 = 0.883000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571856 
+fusion_lat = 39.761300 
+fusion_alt = 0.238000 m
+gyro_data1 = 31.577000 deg/h
+gyro_data2 = -21.248000 deg/h
+gyro_data3 = 6.584000 deg/h
+acce_data1 = -0.008810 m/s/s
+acce_data2 = 0.049750 m/s/s
+acce_data3 = 9.803240 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6622.398464 s
+timestamp2 = 147.992255 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 15000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 15000 lost_num = 0 check_error_num = 0
+counter = 6566526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.316037 deg
+angle2 = 0.046413 deg
+angle3 = -143.250112 deg
+fusion_vel_1 = -2.151000 m/s
+fusion_vel_2 = 0.887000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571808 
+fusion_lat = 39.761316 
+fusion_alt = 0.227000 m
+gyro_data1 = -1.422000 deg/h
+gyro_data2 = 19.396000 deg/h
+gyro_data3 = 9.379000 deg/h
+acce_data1 = 0.006000 m/s/s
+acce_data2 = 0.052010 m/s/s
+acce_data3 = 9.776940 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6624.398336 s
+timestamp2 = 149.992268 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 760 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-8-80
+lat = 39.78563700
+lon = 116.56994800
+alt = 0.682000
+speed = 0.051389 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.180000
+hdop = 0.700000
+vdop = 0.950000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6626.322432 s
+timestamp2 = 151.787647 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 15200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 15200 lost_num = 0 check_error_num = 0
+counter = 6568526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315935 deg
+angle2 = 0.046791 deg
+angle3 = -143.250160 deg
+fusion_vel_1 = -2.152000 m/s
+fusion_vel_2 = 0.891000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571760 
+fusion_lat = 39.761332 
+fusion_alt = 0.217000 m
+gyro_data1 = -14.552000 deg/h
+gyro_data2 = -0.509000 deg/h
+gyro_data3 = 5.084000 deg/h
+acce_data1 = -0.020940 m/s/s
+acce_data2 = 0.053940 m/s/s
+acce_data3 = 9.804390 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6626.398208 s
+timestamp2 = 151.992325 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 15400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 15400 lost_num = 0 check_error_num = 0
+counter = 6570526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315821 deg
+angle2 = 0.046443 deg
+angle3 = -143.250064 deg
+fusion_vel_1 = -2.154000 m/s
+fusion_vel_2 = 0.896000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571704 
+fusion_lat = 39.761348 
+fusion_alt = 0.208000 m
+gyro_data1 = -14.396000 deg/h
+gyro_data2 = -33.921000 deg/h
+gyro_data3 = 14.469000 deg/h
+acce_data1 = -0.008100 m/s/s
+acce_data2 = 0.047580 m/s/s
+acce_data3 = 9.803520 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6628.398592 s
+timestamp2 = 153.992354 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 780 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-12-80
+lat = 39.78563760
+lon = 116.56995560
+alt = 0.674000
+speed = 0.055556 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.360000
+hdop = 0.800000
+vdop = 1.100000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6630.321664 s
+timestamp2 = 155.786577 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 15600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 15600 lost_num = 0 check_error_num = 0
+counter = 6572526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315473 deg
+angle2 = 0.046674 deg
+angle3 = -143.249984 deg
+fusion_vel_1 = -2.155000 m/s
+fusion_vel_2 = 0.900000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571656 
+fusion_lat = 39.761364 
+fusion_alt = 0.200000 m
+gyro_data1 = 22.796000 deg/h
+gyro_data2 = 8.608000 deg/h
+gyro_data3 = 14.582000 deg/h
+acce_data1 = 0.004520 m/s/s
+acce_data2 = 0.047750 m/s/s
+acce_data3 = 9.787570 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.750000 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6630.398464 s
+timestamp2 = 155.992373 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 15800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 15800 lost_num = 0 check_error_num = 0
+counter = 6574526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.315642 deg
+angle2 = 0.046690 deg
+angle3 = -143.249984 deg
+fusion_vel_1 = -2.156000 m/s
+fusion_vel_2 = 0.905000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571608 
+fusion_lat = 39.761380 
+fusion_alt = 0.192000 m
+gyro_data1 = 10.425000 deg/h
+gyro_data2 = 28.410000 deg/h
+gyro_data3 = -2.140000 deg/h
+acce_data1 = -0.016910 m/s/s
+acce_data2 = 0.052830 m/s/s
+acce_data3 = 9.796390 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6632.398848 s
+timestamp2 = 157.992343 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 800 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-16-80
+lat = 39.78563930
+lon = 116.56996110
+alt = 0.667000
+speed = 0.030278 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.360000
+hdop = 0.800000
+vdop = 1.100000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6634.319360 s
+timestamp2 = 159.785347 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 16000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 16000 lost_num = 0 check_error_num = 0
+counter = 6576526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.314898 deg
+angle2 = 0.046859 deg
+angle3 = -143.249904 deg
+fusion_vel_1 = -2.157000 m/s
+fusion_vel_2 = 0.910000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571552 
+fusion_lat = 39.761396 
+fusion_alt = 0.185000 m
+gyro_data1 = -50.441000 deg/h
+gyro_data2 = -34.059000 deg/h
+gyro_data3 = 15.672000 deg/h
+acce_data1 = -0.010990 m/s/s
+acce_data2 = 0.050060 m/s/s
+acce_data3 = 9.801740 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6634.398720 s
+timestamp2 = 159.992402 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 16200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 16200 lost_num = 0 check_error_num = 0
+counter = 6578526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.313063 deg
+angle2 = 0.047718 deg
+angle3 = -143.249824 deg
+fusion_vel_1 = -2.159000 m/s
+fusion_vel_2 = 0.914000 m/s
+fusion_vel_3 = 0.001000 m/s
+fusion_lon = 116.571504 
+fusion_lat = 39.761412 
+fusion_alt = 0.179000 m
+gyro_data1 = 289.005000 deg/h
+gyro_data2 = -166.699000 deg/h
+gyro_data3 = 11.939000 deg/h
+acce_data1 = -0.026680 m/s/s
+acce_data2 = 0.011370 m/s/s
+acce_data3 = 9.827180 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6636.398592 s
+timestamp2 = 161.992474 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 820 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-20-80
+lat = 39.78563910
+lon = 116.56996580
+alt = 0.660000
+speed = 0.015000 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.070000
+hdop = 0.630000
+vdop = 0.870000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6638.328320 s
+timestamp2 = 163.792961 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 16400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 16400 lost_num = 0 check_error_num = 0
+counter = 6580526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.334636 deg
+angle2 = 0.033629 deg
+angle3 = -143.249888 deg
+fusion_vel_1 = -2.160000 m/s
+fusion_vel_2 = 0.918000 m/s
+fusion_vel_3 = 0.001000 m/s
+fusion_lon = 116.571456 
+fusion_lat = 39.761428 
+fusion_alt = 0.174000 m
+gyro_data1 = -56.496000 deg/h
+gyro_data2 = 86.019000 deg/h
+gyro_data3 = -1.394000 deg/h
+acce_data1 = -0.011130 m/s/s
+acce_data2 = 0.053480 m/s/s
+acce_data3 = 9.795930 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6638.398976 s
+timestamp2 = 163.992512 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 16600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 16600 lost_num = 0 check_error_num = 0
+counter = 6582526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.330131 deg
+angle2 = 0.035629 deg
+angle3 = -143.234688 deg
+fusion_vel_1 = -2.161000 m/s
+fusion_vel_2 = 0.921000 m/s
+fusion_vel_3 = 0.000000 m/s
+fusion_lon = 116.571408 
+fusion_lat = 39.761448 
+fusion_alt = 0.170000 m
+gyro_data1 = -2842.264000 deg/h
+gyro_data2 = -57.438000 deg/h
+gyro_data3 = 16.599000 deg/h
+acce_data1 = -0.036270 m/s/s
+acce_data2 = 0.187050 m/s/s
+acce_data3 = 9.713250 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6640.398848 s
+timestamp2 = 165.992562 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 840 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-24-80
+lat = 39.78563830
+lon = 116.56996830
+alt = 0.659000
+speed = 0.008056 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.190000
+hdop = 0.680000
+vdop = 0.980000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6642.327040 s
+timestamp2 = 167.791813 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 16800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 16800 lost_num = 0 check_error_num = 0
+counter = 6584526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329394 deg
+angle2 = 0.037874 deg
+angle3 = -143.234464 deg
+fusion_vel_1 = -2.163000 m/s
+fusion_vel_2 = 0.927000 m/s
+fusion_vel_3 = 0.001000 m/s
+fusion_lon = 116.571352 
+fusion_lat = 39.761464 
+fusion_alt = 0.167000 m
+gyro_data1 = 60.119000 deg/h
+gyro_data2 = -28.198000 deg/h
+gyro_data3 = 11.848000 deg/h
+acce_data1 = -0.006380 m/s/s
+acce_data2 = 0.052550 m/s/s
+acce_data3 = 9.795100 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6642.399232 s
+timestamp2 = 167.992579 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 17000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 17000 lost_num = 0 check_error_num = 0
+counter = 6586526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.328851 deg
+angle2 = 0.038364 deg
+angle3 = -143.234416 deg
+fusion_vel_1 = -2.165000 m/s
+fusion_vel_2 = 0.931000 m/s
+fusion_vel_3 = 0.001000 m/s
+fusion_lon = 116.571304 
+fusion_lat = 39.761480 
+fusion_alt = 0.163000 m
+gyro_data1 = -8.933000 deg/h
+gyro_data2 = 59.227000 deg/h
+gyro_data3 = -2.739000 deg/h
+acce_data1 = 0.000770 m/s/s
+acce_data2 = 0.051720 m/s/s
+acce_data3 = 9.789480 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6644.399104 s
+timestamp2 = 169.992650 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 860 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-28-80
+lat = 39.78563460
+lon = 116.56996650
+alt = 0.664000
+speed = 0.037500 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.060000
+hdop = 0.610000
+vdop = 0.880000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6646.308864 s
+timestamp2 = 171.775595 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 17200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 17200 lost_num = 0 check_error_num = 0
+counter = 6588526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.328803 deg
+angle2 = 0.038407 deg
+angle3 = -143.234432 deg
+fusion_vel_1 = -2.166000 m/s
+fusion_vel_2 = 0.935000 m/s
+fusion_vel_3 = 0.001000 m/s
+fusion_lon = 116.571256 
+fusion_lat = 39.761496 
+fusion_alt = 0.159000 m
+gyro_data1 = -88.688000 deg/h
+gyro_data2 = -69.932000 deg/h
+gyro_data3 = 16.816000 deg/h
+acce_data1 = -0.017170 m/s/s
+acce_data2 = 0.059600 m/s/s
+acce_data3 = 9.800740 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6646.398976 s
+timestamp2 = 171.992657 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 17400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 17400 lost_num = 0 check_error_num = 0
+counter = 6590526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.328767 deg
+angle2 = 0.038462 deg
+angle3 = -143.234368 deg
+fusion_vel_1 = -2.168000 m/s
+fusion_vel_2 = 0.939000 m/s
+fusion_vel_3 = 0.002000 m/s
+fusion_lon = 116.571200 
+fusion_lat = 39.761512 
+fusion_alt = 0.157000 m
+gyro_data1 = 64.341000 deg/h
+gyro_data2 = -40.045000 deg/h
+gyro_data3 = 10.872000 deg/h
+acce_data1 = -0.007400 m/s/s
+acce_data2 = 0.049260 m/s/s
+acce_data3 = 9.799910 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6648.399360 s
+timestamp2 = 173.992705 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 880 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-32-80
+lat = 39.78563260
+lon = 116.56996080
+alt = 0.671000
+speed = 0.028611 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 0.940000
+hdop = 0.580000
+vdop = 0.740000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6650.318336 s
+timestamp2 = 175.782758 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 17600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 17600 lost_num = 0 check_error_num = 0
+counter = 6592526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.332763 deg
+angle2 = 0.035474 deg
+angle3 = -143.234416 deg
+fusion_vel_1 = -2.169000 m/s
+fusion_vel_2 = 0.943000 m/s
+fusion_vel_3 = 0.002000 m/s
+fusion_lon = 116.571152 
+fusion_lat = 39.761528 
+fusion_alt = 0.155000 m
+gyro_data1 = 97.366000 deg/h
+gyro_data2 = 68.487000 deg/h
+gyro_data3 = 7.598000 deg/h
+acce_data1 = 0.010350 m/s/s
+acce_data2 = 0.039520 m/s/s
+acce_data3 = 9.793810 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6650.399232 s
+timestamp2 = 175.992724 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 17800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 17800 lost_num = 0 check_error_num = 0
+counter = 6594526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329133 deg
+angle2 = 0.038188 deg
+angle3 = -143.234272 deg
+fusion_vel_1 = -2.170000 m/s
+fusion_vel_2 = 0.948000 m/s
+fusion_vel_3 = 0.002000 m/s
+fusion_lon = 116.571104 
+fusion_lat = 39.761548 
+fusion_alt = 0.154000 m
+gyro_data1 = 74.771000 deg/h
+gyro_data2 = 8.044000 deg/h
+gyro_data3 = 14.238000 deg/h
+acce_data1 = -0.008280 m/s/s
+acce_data2 = 0.057120 m/s/s
+acce_data3 = 9.801010 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6652.399104 s
+timestamp2 = 177.992790 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 900 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-36-80
+lat = 39.78563050
+lon = 116.56995780
+alt = 0.677000
+speed = 0.020556 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.120000
+hdop = 0.640000
+vdop = 0.920000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6654.313984 s
+timestamp2 = 179.778529 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 18000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 18000 lost_num = 0 check_error_num = 0
+counter = 6596526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.332248 deg
+angle2 = 0.035787 deg
+angle3 = -143.234352 deg
+fusion_vel_1 = -2.171000 m/s
+fusion_vel_2 = 0.952000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.571048 
+fusion_lat = 39.761564 
+fusion_alt = 0.154000 m
+gyro_data1 = 41.495000 deg/h
+gyro_data2 = -10.888000 deg/h
+gyro_data3 = 5.090000 deg/h
+acce_data1 = -0.005240 m/s/s
+acce_data2 = 0.051430 m/s/s
+acce_data3 = 9.805130 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.000000 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6654.399488 s
+timestamp2 = 179.992791 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 18200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 18200 lost_num = 0 check_error_num = 0
+counter = 6598526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331438 deg
+angle2 = 0.035918 deg
+angle3 = -143.234272 deg
+fusion_vel_1 = -2.172000 m/s
+fusion_vel_2 = 0.957000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.571000 
+fusion_lat = 39.761580 
+fusion_alt = 0.156000 m
+gyro_data1 = -153.657000 deg/h
+gyro_data2 = -104.028000 deg/h
+gyro_data3 = 17.847000 deg/h
+acce_data1 = 0.001250 m/s/s
+acce_data2 = 0.059550 m/s/s
+acce_data3 = 9.783590 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6656.399360 s
+timestamp2 = 181.992830 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 920 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-40-80
+lat = 39.78562780
+lon = 116.56995230
+alt = 0.688000
+speed = 0.015278 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 0.940000
+hdop = 0.580000
+vdop = 0.750000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6658.300928 s
+timestamp2 = 183.765759 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 18400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 18400 lost_num = 0 check_error_num = 0
+counter = 6600526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331497 deg
+angle2 = 0.036269 deg
+angle3 = -143.234304 deg
+fusion_vel_1 = -2.174000 m/s
+fusion_vel_2 = 0.961000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570952 
+fusion_lat = 39.761600 
+fusion_alt = 0.157000 m
+gyro_data1 = -84.983000 deg/h
+gyro_data2 = 29.599000 deg/h
+gyro_data3 = 1.354000 deg/h
+acce_data1 = -0.008900 m/s/s
+acce_data2 = 0.057910 m/s/s
+acce_data3 = 9.790180 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6658.399744 s
+timestamp2 = 183.992867 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 18600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 18600 lost_num = 0 check_error_num = 0
+counter = 6602526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331391 deg
+angle2 = 0.036325 deg
+angle3 = -143.234224 deg
+fusion_vel_1 = -2.175000 m/s
+fusion_vel_2 = 0.965000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570896 
+fusion_lat = 39.761616 
+fusion_alt = 0.158000 m
+gyro_data1 = -10.005000 deg/h
+gyro_data2 = 12.485000 deg/h
+gyro_data3 = 7.952000 deg/h
+acce_data1 = -0.013260 m/s/s
+acce_data2 = 0.051360 m/s/s
+acce_data3 = 9.807270 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.875000 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6660.399616 s
+timestamp2 = 185.993466 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 940 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-44-80
+lat = 39.78562410
+lon = 116.56994430
+alt = 0.703000
+speed = 0.005278 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.050000
+hdop = 0.610000
+vdop = 0.850000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6662.314496 s
+timestamp2 = 187.778874 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 18800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 18800 lost_num = 0 check_error_num = 0
+counter = 6604526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331556 deg
+angle2 = 0.035965 deg
+angle3 = -143.234128 deg
+fusion_vel_1 = -2.176000 m/s
+fusion_vel_2 = 0.970000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570848 
+fusion_lat = 39.761632 
+fusion_alt = 0.159000 m
+gyro_data1 = -80.972000 deg/h
+gyro_data2 = -148.197000 deg/h
+gyro_data3 = 18.503000 deg/h
+acce_data1 = -0.000290 m/s/s
+acce_data2 = 0.061470 m/s/s
+acce_data3 = 9.788790 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6662.399488 s
+timestamp2 = 187.992930 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 19000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 19000 lost_num = 0 check_error_num = 0
+counter = 6606526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.333486 deg
+angle2 = 0.036270 deg
+angle3 = -143.234096 deg
+fusion_vel_1 = -2.178000 m/s
+fusion_vel_2 = 0.975000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570800 
+fusion_lat = 39.761652 
+fusion_alt = 0.160000 m
+gyro_data1 = 802.006000 deg/h
+gyro_data2 = 165.524000 deg/h
+gyro_data3 = -7.369000 deg/h
+acce_data1 = 0.002280 m/s/s
+acce_data2 = 0.069590 m/s/s
+acce_data3 = 9.776180 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.812500 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6664.399872 s
+timestamp2 = 189.992969 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 960 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-48-80
+lat = 39.78562180
+lon = 116.56993980
+alt = 0.712000
+speed = 0.014444 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.160000
+hdop = 0.660000
+vdop = 0.960000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6666.313728 s
+timestamp2 = 191.778224 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 19200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 19200 lost_num = 0 check_error_num = 0
+counter = 6608526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329672 deg
+angle2 = 0.037207 deg
+angle3 = -143.233888 deg
+fusion_vel_1 = -2.178000 m/s
+fusion_vel_2 = 0.979000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570744 
+fusion_lat = 39.761668 
+fusion_alt = 0.161000 m
+gyro_data1 = 281.655000 deg/h
+gyro_data2 = -59.347000 deg/h
+gyro_data3 = 17.698000 deg/h
+acce_data1 = -0.023770 m/s/s
+acce_data2 = 0.024850 m/s/s
+acce_data3 = 9.829290 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6666.399744 s
+timestamp2 = 191.993002 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 19400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 19400 lost_num = 0 check_error_num = 0
+counter = 6610526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.332042 deg
+angle2 = 0.035419 deg
+angle3 = -143.233856 deg
+fusion_vel_1 = -2.180000 m/s
+fusion_vel_2 = 0.983000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570696 
+fusion_lat = 39.761688 
+fusion_alt = 0.163000 m
+gyro_data1 = -38.476000 deg/h
+gyro_data2 = -35.697000 deg/h
+gyro_data3 = 21.474000 deg/h
+acce_data1 = -0.007060 m/s/s
+acce_data2 = 0.062030 m/s/s
+acce_data3 = 9.794850 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6668.400128 s
+timestamp2 = 193.993037 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 980 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-52-80
+lat = 39.78562100
+lon = 116.56993580
+alt = 0.719000
+speed = 0.021111 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.080000
+hdop = 0.640000
+vdop = 0.870000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6670.318592 s
+timestamp2 = 195.783046 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 19600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 19600 lost_num = 0 check_error_num = 0
+counter = 6612526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329708 deg
+angle2 = 0.037472 deg
+angle3 = -143.233824 deg
+fusion_vel_1 = -2.181000 m/s
+fusion_vel_2 = 0.987000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570648 
+fusion_lat = 39.761704 
+fusion_alt = 0.165000 m
+gyro_data1 = -515.046000 deg/h
+gyro_data2 = 512.320000 deg/h
+gyro_data3 = 10.623000 deg/h
+acce_data1 = 0.018140 m/s/s
+acce_data2 = 0.078120 m/s/s
+acce_data3 = 9.754460 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6670.400000 s
+timestamp2 = 195.993017 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 19800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 19800 lost_num = 0 check_error_num = 0
+counter = 6614526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329635 deg
+angle2 = 0.036767 deg
+angle3 = -143.233872 deg
+fusion_vel_1 = -2.182000 m/s
+fusion_vel_2 = 0.991000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570592 
+fusion_lat = 39.761720 
+fusion_alt = 0.167000 m
+gyro_data1 = -185.138000 deg/h
+gyro_data2 = -26.838000 deg/h
+gyro_data3 = 16.196000 deg/h
+acce_data1 = -0.012010 m/s/s
+acce_data2 = 0.053940 m/s/s
+acce_data3 = 9.806510 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6672.399872 s
+timestamp2 = 197.993114 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 1000 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-26-56-80
+lat = 39.78562060
+lon = 116.56993030
+alt = 0.728000
+speed = 0.007778 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.150000
+hdop = 0.690000
+vdop = 0.920000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6674.317824 s
+timestamp2 = 199.782153 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 20000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 20000 lost_num = 0 check_error_num = 0
+counter = 6616526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.330040 deg
+angle2 = 0.036651 deg
+angle3 = -143.233824 deg
+fusion_vel_1 = -2.183000 m/s
+fusion_vel_2 = 0.996000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570544 
+fusion_lat = 39.761740 
+fusion_alt = 0.169000 m
+gyro_data1 = 64.795000 deg/h
+gyro_data2 = -82.641000 deg/h
+gyro_data3 = 22.684000 deg/h
+acce_data1 = -0.000250 m/s/s
+acce_data2 = 0.060120 m/s/s
+acce_data3 = 9.790040 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6674.400256 s
+timestamp2 = 199.993175 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 20200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 20200 lost_num = 0 check_error_num = 0
+counter = 6618526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331970 deg
+angle2 = 0.035380 deg
+angle3 = -143.233920 deg
+fusion_vel_1 = -2.185000 m/s
+fusion_vel_2 = 0.999000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570496 
+fusion_lat = 39.761760 
+fusion_alt = 0.170000 m
+gyro_data1 = -36.208000 deg/h
+gyro_data2 = 127.339000 deg/h
+gyro_data3 = -7.992000 deg/h
+acce_data1 = 0.000700 m/s/s
+acce_data2 = 0.043590 m/s/s
+acce_data3 = 9.784310 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6676.400128 s
+timestamp2 = 201.993319 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 1020 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-27-0-80
+lat = 39.78562110
+lon = 116.56992780
+alt = 0.735000
+speed = 0.020556 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.150000
+hdop = 0.650000
+vdop = 0.940000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6678.327808 s
+timestamp2 = 203.791955 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 20400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 20400 lost_num = 0 check_error_num = 0
+counter = 6620526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331246 deg
+angle2 = 0.035667 deg
+angle3 = -143.233904 deg
+fusion_vel_1 = -2.186000 m/s
+fusion_vel_2 = 1.003000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570440 
+fusion_lat = 39.761776 
+fusion_alt = 0.171000 m
+gyro_data1 = -67.145000 deg/h
+gyro_data2 = -74.031000 deg/h
+gyro_data3 = 14.087000 deg/h
+acce_data1 = -0.012260 m/s/s
+acce_data2 = 0.065560 m/s/s
+acce_data3 = 9.802490 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6678.400000 s
+timestamp2 = 203.994185 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 20600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 20600 lost_num = 0 check_error_num = 0
+counter = 6622526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329559 deg
+angle2 = 0.036793 deg
+angle3 = -143.233776 deg
+fusion_vel_1 = -2.188000 m/s
+fusion_vel_2 = 1.008000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570392 
+fusion_lat = 39.761792 
+fusion_alt = 0.171000 m
+gyro_data1 = 75.004000 deg/h
+gyro_data2 = -34.329000 deg/h
+gyro_data3 = 13.414000 deg/h
+acce_data1 = -0.002450 m/s/s
+acce_data2 = 0.050830 m/s/s
+acce_data3 = 9.803580 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6680.400384 s
+timestamp2 = 205.993254 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 1040 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-27-4-80
+lat = 39.78562060
+lon = 116.56992460
+alt = 0.742000
+speed = 0.025278 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.110000
+hdop = 0.630000
+vdop = 0.910000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6682.322944 s
+timestamp2 = 207.786979 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 20800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 20800 lost_num = 0 check_error_num = 0
+counter = 6624526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329025 deg
+angle2 = 0.037312 deg
+angle3 = -143.233760 deg
+fusion_vel_1 = -2.189000 m/s
+fusion_vel_2 = 1.012000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570336 
+fusion_lat = 39.761812 
+fusion_alt = 0.171000 m
+gyro_data1 = -7.177000 deg/h
+gyro_data2 = 76.091000 deg/h
+gyro_data3 = -1.126000 deg/h
+acce_data1 = 0.006770 m/s/s
+acce_data2 = 0.048550 m/s/s
+acce_data3 = 9.778770 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6682.400256 s
+timestamp2 = 207.993320 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 21000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 21000 lost_num = 0 check_error_num = 0
+counter = 6626526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.329140 deg
+angle2 = 0.036991 deg
+angle3 = -143.233696 deg
+fusion_vel_1 = -2.190000 m/s
+fusion_vel_2 = 1.016000 m/s
+fusion_vel_3 = 0.003000 m/s
+fusion_lon = 116.570288 
+fusion_lat = 39.761832 
+fusion_alt = 0.171000 m
+gyro_data1 = -142.842000 deg/h
+gyro_data2 = -10.679000 deg/h
+gyro_data3 = 11.484000 deg/h
+acce_data1 = -0.014440 m/s/s
+acce_data2 = 0.058670 m/s/s
+acce_data3 = 9.803080 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.687500 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6684.400640 s
+timestamp2 = 209.993347 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 1060 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-27-8-80
+lat = 39.78562050
+lon = 116.56992000
+alt = 0.748000
+speed = 0.010000 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.000000
+hdop = 0.600000
+vdop = 0.800000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6686.323712 s
+timestamp2 = 211.787887 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 21200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 21200 lost_num = 0 check_error_num = 0
+counter = 6628526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.328983 deg
+angle2 = 0.037117 deg
+angle3 = -143.233648 deg
+fusion_vel_1 = -2.191000 m/s
+fusion_vel_2 = 1.020000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570240 
+fusion_lat = 39.761848 
+fusion_alt = 0.172000 m
+gyro_data1 = 98.178000 deg/h
+gyro_data2 = -74.315000 deg/h
+gyro_data3 = 14.186000 deg/h
+acce_data1 = -0.010880 m/s/s
+acce_data2 = 0.053570 m/s/s
+acce_data3 = 9.801430 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6686.400512 s
+timestamp2 = 211.993383 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 21400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 21400 lost_num = 0 check_error_num = 0
+counter = 6630526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.332239 deg
+angle2 = 0.035033 deg
+angle3 = -143.233792 deg
+fusion_vel_1 = -2.192000 m/s
+fusion_vel_2 = 1.024000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570184 
+fusion_lat = 39.761868 
+fusion_alt = 0.173000 m
+gyro_data1 = 663.704000 deg/h
+gyro_data2 = 113.540000 deg/h
+gyro_data3 = 1.779000 deg/h
+acce_data1 = 0.003510 m/s/s
+acce_data2 = 0.009150 m/s/s
+acce_data3 = 9.811850 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6688.400384 s
+timestamp2 = 213.993420 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 1080 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-27-12-80
+lat = 39.78562100
+lon = 116.56991680
+alt = 0.750000
+speed = 0.004722 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.000000
+hdop = 0.600000
+vdop = 0.800000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6690.302464 s
+timestamp2 = 215.766505 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 21600 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 21600 lost_num = 0 check_error_num = 0
+counter = 6632526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.330614 deg
+angle2 = 0.035772 deg
+angle3 = -143.233680 deg
+fusion_vel_1 = -2.192000 m/s
+fusion_vel_2 = 1.029000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570136 
+fusion_lat = 39.761888 
+fusion_alt = 0.175000 m
+gyro_data1 = -91.630000 deg/h
+gyro_data2 = -16.560000 deg/h
+gyro_data3 = 9.339000 deg/h
+acce_data1 = -0.023630 m/s/s
+acce_data2 = 0.052200 m/s/s
+acce_data3 = 9.809260 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6690.400768 s
+timestamp2 = 215.993427 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 21800 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 21800 lost_num = 0 check_error_num = 0
+counter = 6634526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.331806 deg
+angle2 = 0.034561 deg
+angle3 = -143.233600 deg
+fusion_vel_1 = -2.194000 m/s
+fusion_vel_2 = 1.033000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570080 
+fusion_lat = 39.761904 
+fusion_alt = 0.177000 m
+gyro_data1 = 52.344000 deg/h
+gyro_data2 = -84.780000 deg/h
+gyro_data3 = 6.522000 deg/h
+acce_data1 = -0.006280 m/s/s
+acce_data2 = 0.054290 m/s/s
+acce_data3 = 9.804030 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6692.400640 s
+timestamp2 = 217.993459 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 1100 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-27-16-80
+lat = 39.78562050
+lon = 116.56991780
+alt = 0.750000
+speed = 0.009722 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.050000
+hdop = 0.650000
+vdop = 0.820000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6694.325760 s
+timestamp2 = 219.789515 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 22000 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 22000 lost_num = 0 check_error_num = 0
+counter = 6636526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.330037 deg
+angle2 = 0.035886 deg
+angle3 = -143.233472 deg
+fusion_vel_1 = -2.194000 m/s
+fusion_vel_2 = 1.037000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.570032 
+fusion_lat = 39.761924 
+fusion_alt = 0.179000 m
+gyro_data1 = -75.153000 deg/h
+gyro_data2 = 23.487000 deg/h
+gyro_data3 = 9.010000 deg/h
+acce_data1 = 0.003900 m/s/s
+acce_data2 = 0.054860 m/s/s
+acce_data3 = 9.778610 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.625000 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6694.401024 s
+timestamp2 = 219.993498 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 22200 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 22200 lost_num = 0 check_error_num = 0
+counter = 6638526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.330234 deg
+angle2 = 0.035784 deg
+angle3 = -143.233488 deg
+fusion_vel_1 = -2.195000 m/s
+fusion_vel_2 = 1.041000 m/s
+fusion_vel_3 = 0.004000 m/s
+fusion_lon = 116.569984 
+fusion_lat = 39.761944 
+fusion_alt = 0.182000 m
+gyro_data1 = -26.491000 deg/h
+gyro_data2 = -4.003000 deg/h
+gyro_data3 = 4.785000 deg/h
+acce_data1 = -0.017610 m/s/s
+acce_data2 = 0.059520 m/s/s
+acce_data3 = 9.801110 m/s/s
+gyro_tmp1 = 46.625000 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6696.400896 s
+timestamp2 = 221.993869 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information end~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information Begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good_num = 1120 bad_num = 0 goode_ratio = 1.00000000
+2021-4-28-7-27-20-80
+lat = 39.78561980
+lon = 116.56991910
+alt = 0.745000
+speed = 0.027778 m/s
+forward_speed = 0.000000 m/s
+direction_angle = 0.000000 deg
+velocity_angle = 0.000000 deg
+e_vel = 0.000000 m/s
+n_vel = 0.000000 m/s
+u_vel = 0.000000 m/s
+roll = 0.000000 deg
+pitch = 0.000000 deg
+yaw = 0.000000 deg
+star = 12 
+pdop = 1.100000
+hdop = 0.640000
+vdop = 0.900000
+gnss_state = 1
+ppscount = 0
+time_tick_pps = 6698.326528 s
+timestamp2 = 223.790158 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GPS Information End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~sins information begin~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+num = 22400 invalid_ratio = 1.00000000 lost_ratio = 0.00000000 check_error_ratio = 0.00000000
+invalid_num = 22400 lost_num = 0 check_error_num = 0
+counter = 6640526
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@STATE = 5
+nav_mode = 2
+angle1 = 0.330942 deg
+angle2 = 0.034709 deg
+angle3 = -143.233376 deg
+fusion_vel_1 = -2.196000 m/s
+fusion_vel_2 = 1.046000 m/s
+fusion_vel_3 = 0.005000 m/s
+fusion_lon = 116.569928 
+fusion_lat = 39.761960 
+fusion_alt = 0.185000 m
+gyro_data1 = -213.991000 deg/h
+gyro_data2 = -35.034000 deg/h
+gyro_data3 = 16.237000 deg/h
+acce_data1 = 0.000720 m/s/s
+acce_data2 = 0.049480 m/s/s
+acce_data3 = 9.797900 m/s/s
+gyro_tmp1 = 46.687500 
+gyro_tmp2 = 46.750000 
+gyro_tmp3 = 46.687500 
+acce_tmp1 = 60.875000 
+acce_tmp2 = 53.937500 
+acce_tmp3 = 61.062500 
+dvl_vel1 = -32.768000 m/s
+dvl_vel2 = -32.768000 m/s
+dvl_vel3 = -32.768000 m/s
+dvl_flag = 0
+timestamp1 = 6698.400768 s
+timestamp2 = 223.99
